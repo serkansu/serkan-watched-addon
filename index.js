@@ -2,19 +2,19 @@ const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 const fs = require("fs");
 const path = require("path");
 
-// YALNIZCA BU REPODAKI (yerel) favorites_stw.json okunur; baska repodan veri cekilmez.
-// favorites_stw.json verilerini oku
+// YALNIZCA BU REPODAKI (yerel) favorites_watched.json okunur; baska repodan veri cekilmez.
+// favorites_watched.json verilerini oku
 let movieList = [];
 let seriesList = [];
 try {
-  const data = fs.readFileSync(path.join(__dirname, "favorites_stw.json"), "utf8");
+  const data = fs.readFileSync(path.join(__dirname, "favorites_watched.json"), "utf8");
   const parsed = JSON.parse(data);
   movieList = parsed.movies || [];
   seriesList = parsed.series || [];
   console.log(`🎬 ${movieList.length} movies, 📺 ${seriesList.length} series loaded.`);
-  console.log("📄 favorites_stw.json source dir:", __dirname);
+  console.log("📄 favorites_watched.json source dir:", __dirname);
 } catch (err) {
-  console.error("favorites_stw.json okunamadı:", err);
+  console.error("favorites_watched.json okunamadı:", err);
 }
 
 // Helper functions to extract years and build extras
@@ -43,19 +43,19 @@ function yearsToSortOptions(yearsArr) {
 }
 
 const manifest = {
-  id: "community.serkans_to_watch",
+  id: "community.serkans_watched",
   version: "1.0.1",
-  name: "Serkan'ın izlenecek film ve diziler listesi",
-  description: `🎯 İzlenmeye değer olduğu düşünülen filmler ve diziler burada!! 
+  name: "Serkan'ın izlenen film ve diziler listesi",
+  description: `🎯 İzlenmiş ve beğenilmiş filmler ve diziler burada!! 
 `,
-  logo: "https://raw.githubusercontent.com/serkansu/serkans-to-watch-addon/main/stw-logo.png",
+  logo: "https://raw.githubusercontent.com/serkansu/serkans-watched-addon/main/stw-logo.png",
   resources: ["catalog"],
   types: ["movie", "series"],
   catalogs: [
     {
       type: "movie",
-      id: "stw_movies",
-      name: "🎬 Serkan'ın İzlenecek Filmleri",
+      id: "swa_movies",
+      name: "🎬 Serkan'ın İzlenen Filmleri",
       extra: [
         {
           name: "year",
@@ -80,8 +80,8 @@ const manifest = {
     },
     {
       type: "series",
-      id: "stw_series",
-      name: "📺 Serkan'ın İzlenecek Dizileri",
+      id: "swa_series",
+      name: "📺 Serkan'ın İzlenen Dizileri",
       extra: [
         {
           name: "year",
@@ -196,7 +196,7 @@ builder.defineCatalogHandler((args) => {
     return filtered;
   }
 
-  if (args.id === "stw_movies") {
+  if (args.id === "swa_movies") {
     const sorted = getSortedFiltered(movieList, "movie");
     const metas = sorted
       .slice(skip, skip + limit)
@@ -221,7 +221,7 @@ builder.defineCatalogHandler((args) => {
     return Promise.resolve({ metas });
   }
 
-  if (args.id === "stw_series") {
+  if (args.id === "swa_series") {
     const sorted = getSortedFiltered(seriesList, "series");
     const metas = sorted
       .slice(skip, skip + limit)
