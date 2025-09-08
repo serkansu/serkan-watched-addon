@@ -1,7 +1,19 @@
 {
     "movies": [
         {
-            "status": "watched",
+            "year": "1999",
+            "type": "movie",
+            "rt": 76,
+            "id": "tmdb345",
+            "watchedEmoji": "😐",
+            "title": "Eyes Wide Shut",
+            "imdb": "tt0120663",
+            "watchedBy": "ss",
+            "watchedAt": "08/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+            "imdbRating": 7.5,
+            "cineselectRating": 100,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -10,22 +22,21 @@
                 }
             ],
             "blacklistedAt": null,
-            "type": "movie",
-            "watchedEmoji": "😐",
-            "watchedBy": "ss",
-            "cineselectRating": 100,
-            "blacklistedBy": null,
-            "watchedAt": "08/09/25",
-            "rt": 76,
-            "imdbRating": 7.5,
-            "year": "1999",
-            "imdb": "tt0120663",
-            "title": "Eyes Wide Shut",
-            "id": "tmdb345",
-            "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1996",
+            "type": "movie",
+            "rt": 95,
+            "id": "tmdb275",
+            "watchedEmoji": "👍👍👍",
+            "title": "Fargo",
+            "imdb": "tt0116282",
+            "watchedBy": "öz❤️ss",
+            "watchedAt": "28/08/25",
+            "poster": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+            "imdbRating": 8.1,
+            "cineselectRating": 92,
             "comments": [
                 {
                     "watchedBy": "öz",
@@ -33,21 +44,21 @@
                     "date": "06 Eylül 2025 Cumartesi"
                 }
             ],
-            "watchedAt": "28/08/25",
-            "type": "movie",
-            "watchedEmoji": "👍👍👍",
-            "watchedBy": "öz❤️ss",
-            "cineselectRating": 92,
-            "rt": 95,
-            "imdbRating": 8.1,
-            "year": "1996",
-            "imdb": "tt0116282",
-            "title": "Fargo",
-            "id": "tmdb275",
-            "poster": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2007",
+            "type": "movie",
+            "rt": 93,
+            "id": "tmdb6977",
+            "watchedEmoji": "👍👍",
+            "title": "No Country for Old Men",
+            "imdb": "tt0477348",
+            "watchedBy": "ss",
+            "watchedAt": "05/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+            "imdbRating": 8.2,
+            "cineselectRating": 85,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -60,21 +71,22 @@
                     "date": "06 Eylül 2025 Cumartesi"
                 }
             ],
-            "watchedAt": "05/09/25",
-            "type": "movie",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "ss",
-            "cineselectRating": 85,
-            "rt": 93,
-            "imdbRating": 8.2,
-            "year": "2007",
-            "id": "tmdb6977",
-            "title": "No Country for Old Men",
-            "imdb": "tt0477348",
-            "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1968",
+            "type": "movie",
+            "rt": 90,
+            "id": "tmdb62",
+            "watchedEmoji": "👍👍",
+            "title": "2001: A Space Odyssey",
+            "imdb": "tt0062622",
+            "watchedBy": "ss",
+            "watchedAt": "17/07/25",
+            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "imdbRating": 8.3,
+            "cineselectRating": 82,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "öz",
@@ -83,22 +95,21 @@
                 }
             ],
             "blacklistedAt": null,
-            "blacklistedBy": null,
-            "type": "movie",
-            "watchedBy": "ss",
-            "cineselectRating": 82,
-            "watchedEmoji": "👍👍",
-            "watchedAt": "17/07/25",
-            "rt": 90,
-            "imdbRating": 8.3,
-            "year": "1968",
-            "id": "tmdb62",
-            "title": "2001: A Space Odyssey",
-            "imdb": "tt0062622",
-            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1999",
+            "type": "movie",
+            "rt": 28,
+            "id": "tmdb1090",
+            "watchedEmoji": "👍👍",
+            "title": "The Thirteenth Floor",
+            "imdb": "tt0139809",
+            "watchedBy": "ss",
+            "watchedAt": "05/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+            "imdbRating": 7.0,
+            "cineselectRating": 82,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -111,21 +122,22 @@
                     "date": "06/09/25"
                 }
             ],
-            "watchedAt": "05/09/25",
-            "type": "movie",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "ss",
-            "cineselectRating": 82,
-            "rt": 28,
-            "imdbRating": 7.0,
-            "year": "1999",
-            "imdb": "tt0139809",
-            "title": "The Thirteenth Floor",
-            "id": "tmdb1090",
-            "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1975",
+            "type": "movie",
+            "rt": 78,
+            "id": "tmdb3175",
+            "watchedEmoji": "👍👍",
+            "title": "Barry Lyndon",
+            "imdb": "tt0072684",
+            "watchedBy": "ss",
+            "watchedAt": "12/08/25",
+            "poster": "https://image.tmdb.org/t/p/w500/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
+            "imdbRating": 8.1,
+            "cineselectRating": 81,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "öz",
@@ -139,22 +151,22 @@
                 }
             ],
             "blacklistedAt": null,
-            "blacklistedBy": null,
-            "type": "movie",
-            "watchedBy": "ss",
-            "cineselectRating": 81,
-            "watchedEmoji": "👍👍",
-            "watchedAt": "12/08/25",
-            "rt": 78,
-            "imdbRating": 8.1,
-            "year": "1975",
-            "imdb": "tt0072684",
-            "title": "Barry Lyndon",
-            "id": "tmdb3175",
-            "poster": "https://image.tmdb.org/t/p/w500/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1954",
+            "type": "movie",
+            "rt": 99,
+            "id": "tmdb567",
+            "watchedEmoji": "👍👍",
+            "title": "Rear Window",
+            "imdb": "tt0047396",
+            "watchedBy": "öz",
+            "watchedAt": "20/08/25",
+            "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+            "imdbRating": 8.5,
+            "cineselectRating": 80,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -163,22 +175,22 @@
                 }
             ],
             "blacklistedAt": null,
-            "type": "movie",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "öz",
-            "cineselectRating": 80,
-            "blacklistedBy": null,
-            "watchedAt": "20/08/25",
-            "rt": 99,
-            "imdbRating": 8.5,
-            "year": "1954",
-            "id": "tmdb567",
-            "title": "Rear Window",
-            "imdb": "tt0047396",
-            "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1959",
+            "type": "movie",
+            "rt": 97,
+            "id": "tmdb213",
+            "watchedEmoji": "👍👍",
+            "title": "North by Northwest",
+            "imdb": "tt0053125",
+            "watchedBy": "öz❤️ss",
+            "watchedAt": "02/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+            "imdbRating": 8.3,
+            "cineselectRating": 80,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -187,22 +199,21 @@
                 }
             ],
             "blacklistedAt": null,
-            "type": "movie",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "öz❤️ss",
-            "cineselectRating": 80,
-            "blacklistedBy": null,
-            "watchedAt": "02/09/25",
-            "rt": 97,
-            "imdbRating": 8.3,
-            "year": "1959",
-            "id": "tmdb213",
-            "title": "North by Northwest",
-            "imdb": "tt0053125",
-            "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1984",
+            "type": "movie",
+            "rt": 94,
+            "id": "tmdb11368",
+            "watchedEmoji": "👍",
+            "title": "Blood Simple",
+            "imdb": "tt0086979",
+            "watchedBy": "ss",
+            "watchedAt": "05/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
+            "imdbRating": 7.5,
+            "cineselectRating": 79,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -210,21 +221,23 @@
                     "date": "06 Eylül 2025 Cumartesi"
                 }
             ],
-            "watchedAt": "05/09/25",
-            "type": "movie",
-            "watchedEmoji": "👍",
-            "watchedBy": "ss",
-            "cineselectRating": 79,
-            "rt": 94,
-            "imdbRating": 7.5,
-            "year": "1984",
-            "id": "tmdb11368",
-            "title": "Blood Simple",
-            "imdb": "tt0086979",
-            "poster": "https://image.tmdb.org/t/p/w500/svU6pu4lfHn0T5BVZchVxL58HB5.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2011",
+            "type": "movie",
+            "rt": 94,
+            "id": "tmdb60308",
+            "watchedEmoji": "👍",
+            "title": "Moneyball",
+            "imdb": "tt1210166",
+            "comment": "bu filmi hiç izlemedime şaşırıyorum  hem de gerçek hayat hikayesiymiş — (ss) • 06 Eylül 2025 Cumartesi 08:50",
+            "watchedBy": "ss",
+            "watchedAt": "01/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+            "imdbRating": 7.6,
+            "cineselectRating": 78,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -233,23 +246,21 @@
                 }
             ],
             "blacklistedAt": null,
-            "type": "movie",
-            "blacklistedBy": null,
-            "comment": "bu filmi hiç izlemedime şaşırıyorum  hem de gerçek hayat hikayesiymiş — (ss) • 06 Eylül 2025 Cumartesi 08:50",
-            "cineselectRating": 78,
-            "watchedEmoji": "👍",
-            "watchedBy": "ss",
-            "rt": 94,
-            "watchedAt": "01/09/25",
-            "imdbRating": 7.6,
-            "year": "2011",
-            "id": "tmdb60308",
-            "title": "Moneyball",
-            "imdb": "tt1210166",
-            "poster": "https://image.tmdb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2021",
+            "type": "movie",
+            "rt": 75,
+            "id": "tmdb576845",
+            "watchedEmoji": "👍",
+            "title": "Last Night in Soho",
+            "imdb": "tt9639470",
+            "watchedBy": "öz",
+            "watchedAt": "20/08/25",
+            "poster": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+            "imdbRating": 7.0,
+            "cineselectRating": 75,
             "comments": [
                 {
                     "watchedBy": "öz",
@@ -257,21 +268,22 @@
                     "date": "06 Eylül 2025 Cumartesi"
                 }
             ],
-            "watchedAt": "20/08/25",
-            "type": "movie",
-            "watchedEmoji": "👍",
-            "watchedBy": "öz",
-            "cineselectRating": 75,
-            "rt": 75,
-            "imdbRating": 7.0,
-            "year": "2021",
-            "id": "tmdb576845",
-            "title": "Last Night in Soho",
-            "imdb": "tt9639470",
-            "poster": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "1958",
+            "type": "movie",
+            "rt": 93,
+            "id": "tmdb426",
+            "watchedEmoji": "😐",
+            "title": "Vertigo",
+            "imdb": "tt0052357",
+            "watchedBy": "ss",
+            "watchedAt": "12/08/25",
+            "poster": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+            "imdbRating": 8.2,
+            "cineselectRating": 64,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -280,22 +292,22 @@
                 }
             ],
             "blacklistedAt": null,
-            "blacklistedBy": null,
-            "type": "movie",
-            "watchedBy": "ss",
-            "cineselectRating": 64,
-            "watchedEmoji": "😐",
-            "watchedAt": "12/08/25",
-            "rt": 93,
-            "imdbRating": 8.2,
-            "year": "1958",
-            "id": "tmdb426",
-            "title": "Vertigo",
-            "imdb": "tt0052357",
-            "poster": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2014",
+            "type": "movie",
+            "rt": 61,
+            "id": "tmdb156022",
+            "watchedEmoji": "😐",
+            "title": "The Equalizer",
+            "imdb": "tt0455944",
+            "watchedBy": "ss",
+            "watchedAt": "08/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+            "imdbRating": 7.3,
+            "cineselectRating": 50,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -304,24 +316,24 @@
                 }
             ],
             "blacklistedAt": null,
-            "type": "movie",
-            "watchedEmoji": "😐",
-            "watchedBy": "ss",
-            "cineselectRating": 50,
-            "blacklistedBy": null,
-            "watchedAt": "08/09/25",
-            "rt": 61,
-            "imdbRating": 7.3,
-            "year": "2014",
-            "imdb": "tt0455944",
-            "title": "The Equalizer",
-            "id": "tmdb156022",
-            "poster": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg"
+            "status": "watched"
         }
     ],
     "series": [
         {
-            "status": "watched",
+            "year": "2024",
+            "type": "show",
+            "rt": 0,
+            "id": "tmdb276344",
+            "watchedEmoji": "😐",
+            "title": "Atatürk 1881-1919",
+            "imdb": "tt15676170",
+            "watchedBy": "ss",
+            "watchedAt": "07/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/1ycSNEDArSiapTHdiamVrYzQFt4.jpg",
+            "imdbRating": 8.8,
+            "cineselectRating": 100,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "öz❤️ss",
@@ -330,22 +342,22 @@
                 }
             ],
             "blacklistedAt": null,
-            "type": "show",
-            "watchedEmoji": "😐",
-            "watchedBy": "ss",
-            "cineselectRating": 100,
-            "blacklistedBy": null,
-            "watchedAt": "07/09/25",
-            "rt": 0,
-            "imdbRating": 8.8,
-            "year": "2024",
-            "id": "tmdb276344",
-            "title": "Atatürk 1881-1919",
-            "imdb": "tt15676170",
-            "poster": "https://image.tmdb.org/t/p/w500/1ycSNEDArSiapTHdiamVrYzQFt4.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2014",
+            "type": "show",
+            "rt": 0,
+            "id": "tmdb60622",
+            "watchedEmoji": "😐",
+            "title": "Fargo",
+            "imdb": "tt2802850",
+            "watchedBy": "ss",
+            "watchedAt": "07/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+            "imdbRating": 8.8,
+            "cineselectRating": 93,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -359,22 +371,21 @@
                 }
             ],
             "blacklistedAt": null,
-            "type": "show",
-            "watchedEmoji": "😐",
-            "watchedBy": "ss",
-            "cineselectRating": 93,
-            "blacklistedBy": null,
-            "watchedAt": "07/09/25",
-            "rt": 0,
-            "imdbRating": 8.8,
-            "year": "2014",
-            "id": "tmdb60622",
-            "title": "Fargo",
-            "imdb": "tt2802850",
-            "poster": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2006",
+            "type": "show",
+            "rt": 0,
+            "id": "tmdb1405",
+            "watchedEmoji": "👍👍",
+            "title": "Dexter",
+            "imdb": "tt0773262",
+            "watchedBy": "öz",
+            "watchedAt": "18/06/25",
+            "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+            "imdbRating": 8.6,
+            "cineselectRating": 85,
             "comments": [
                 {
                     "watchedBy": "öz",
@@ -382,21 +393,23 @@
                     "date": "06 Eylül 2025 Cumartesi"
                 }
             ],
-            "watchedAt": "18/06/25",
-            "type": "show",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "öz",
-            "cineselectRating": 85,
-            "rt": 0,
-            "imdbRating": 8.6,
-            "year": "2006",
-            "id": "tmdb1405",
-            "title": "Dexter",
-            "imdb": "tt0773262",
-            "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2025",
+            "type": "show",
+            "rt": 0,
+            "id": "tmdb157239",
+            "watchedEmoji": null,
+            "title": "Alien: Earth",
+            "imdb": "tt13623632",
+            "comment": "Coen kardeşlerin olduğunu duyunca şaşırdım Fargo dizisi ile bu dizinin aynı yönetmenler tarafından yapıldığını görmek şaşırtıcı — (ss) • 06 Eylül 2025 Cumartesi 08:47",
+            "watchedAt": "07/09/25",
+            "watchedBy": "öz❤️ss",
+            "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+            "imdbRating": 0.0,
+            "cineselectRating": 85,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -410,23 +423,23 @@
                 }
             ],
             "blacklistedAt": null,
-            "blacklistedBy": null,
-            "type": "show",
-            "comment": "Coen kardeşlerin olduğunu duyunca şaşırdım Fargo dizisi ile bu dizinin aynı yönetmenler tarafından yapıldığını görmek şaşırtıcı — (ss) • 06 Eylül 2025 Cumartesi 08:47",
-            "cineselectRating": 85,
-            "watchedEmoji": null,
-            "watchedAt": "07/09/25",
-            "rt": 0,
-            "watchedBy": "öz❤️ss",
-            "imdbRating": 0.0,
-            "year": "2025",
-            "id": "tmdb157239",
-            "title": "Alien: Earth",
-            "imdb": "tt13623632",
-            "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2017",
+            "type": "show",
+            "rt": 0,
+            "id": "tmdb67195",
+            "watchedEmoji": "😐",
+            "title": "Legion",
+            "imdb": "tt5114356",
+            "comment": "filmi çok beğenmedim eminim ilerideki bölümlerde hareketleniyordur ama hastanedeki ilk bölüm sahneleri bana karanlık geldi — (ss) • 06 Eylül 2025 Cumartesi 08:44",
+            "watchedBy": "ss",
+            "watchedAt": "07/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+            "imdbRating": 8.1,
+            "cineselectRating": 55,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "ss",
@@ -440,23 +453,22 @@
                 }
             ],
             "blacklistedAt": null,
-            "watchedEmoji": "😐",
-            "type": "show",
-            "comment": "filmi çok beğenmedim eminim ilerideki bölümlerde hareketleniyordur ama hastanedeki ilk bölüm sahneleri bana karanlık geldi — (ss) • 06 Eylül 2025 Cumartesi 08:44",
-            "cineselectRating": 55,
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "rt": 0,
-            "watchedAt": "07/09/25",
-            "imdbRating": 8.1,
-            "year": "2017",
-            "id": "tmdb67195",
-            "title": "Legion",
-            "imdb": "tt5114356",
-            "poster": "https://image.tmdb.org/t/p/w500/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2017",
+            "type": "show",
+            "rt": 0,
+            "id": "tmdb74764",
+            "watchedEmoji": "😐",
+            "title": "Tabula Rasa",
+            "imdb": "tt5197860",
+            "watchedBy": "öz",
+            "watchedAt": "01/05/25",
+            "poster": "https://image.tmdb.org/t/p/w500/A8LZI3pv0VgXsfad9AFDtv6ZTJC.jpg",
+            "imdbRating": 7.9,
+            "cineselectRating": 50,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "öz",
@@ -465,22 +477,22 @@
                 }
             ],
             "blacklistedAt": null,
-            "blacklistedBy": null,
-            "type": "show",
-            "watchedBy": "öz",
-            "cineselectRating": 50,
-            "watchedEmoji": "😐",
-            "watchedAt": "01/05/25",
-            "rt": 0,
-            "imdbRating": 7.9,
-            "year": "2017",
-            "imdb": "tt5197860",
-            "title": "Tabula Rasa",
-            "id": "tmdb74764",
-            "poster": "https://image.tmdb.org/t/p/w500/A8LZI3pv0VgXsfad9AFDtv6ZTJC.jpg"
+            "status": "watched"
         },
         {
-            "status": "watched",
+            "year": "2020",
+            "type": "show",
+            "rt": 0,
+            "id": "tmdb84661",
+            "watchedEmoji": "👎",
+            "title": "The Outsider",
+            "imdb": "tt8550800",
+            "watchedBy": "öz❤️ss",
+            "watchedAt": "06/09/25",
+            "poster": "https://image.tmdb.org/t/p/w500/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg",
+            "imdbRating": 7.6,
+            "cineselectRating": 25,
+            "blacklistedBy": null,
             "comments": [
                 {
                     "watchedBy": "öz",
@@ -489,19 +501,7 @@
                 }
             ],
             "blacklistedAt": null,
-            "blacklistedBy": null,
-            "type": "show",
-            "watchedBy": "öz❤️ss",
-            "cineselectRating": 25,
-            "watchedEmoji": "👎",
-            "watchedAt": "06/09/25",
-            "rt": 0,
-            "imdbRating": 7.6,
-            "year": "2020",
-            "id": "tmdb84661",
-            "title": "The Outsider",
-            "imdb": "tt8550800",
-            "poster": "https://image.tmdb.org/t/p/w500/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg"
+            "status": "watched"
         }
     ]
 }
