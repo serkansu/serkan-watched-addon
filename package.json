@@ -1,13 +1,13 @@
 {
-  "name": "cineselect",
+  "name": "serkan-watched-addon",
   "version": "1.0.0",
-  "description": "CineSelect Stremio Catalog Addon",
+  "description": "Serkan Watched Stremio Catalog Addon",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["stremio", "addon", "cine", "catalog"],
+  "keywords": ["stremio", "addon", "watched", "catalog"],
   "author": "serkan",
   "license": "MIT",
   "dependencies": {
