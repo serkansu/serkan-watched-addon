@@ -214,21 +214,21 @@
                     "date": "17/09/25"
                 }
             ],
-            "id": "tmdb9277",
+            "status": "watched",
             "title": "The Sting",
             "poster": "https://image.tmdb.org/t/p/w500/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
-            "watchedAt": "17/09/25",
-            "status": "watched",
+            "watchedEmoji": "👍👍",
+            "watchedAt": "05/09/25",
             "type": "movie",
             "blacklistedAt": null,
             "imdb": "tt0070735",
             "year": "1973",
             "cineselectRating": 81,
-            "watchedBy": "ss",
+            "id": "tmdb9277",
             "blacklistedBy": null,
             "imdbRating": 8.3,
             "rt": 93,
-            "watchedEmoji": "😐"
+            "watchedBy": "ss"
         },
         {
             "comments": [
@@ -449,11 +449,18 @@
             "id": "tmdb426"
         },
         {
-            "watchedEmoji": "😐",
+            "comments": [
+                {
+                    "text": "Güzel başladı ilginç devam etti sonra çok kötü bozdu",
+                    "watchedBy": "öz❤️ss",
+                    "date": "17/09/25"
+                }
+            ],
             "status": "watched",
             "title": "Weapons",
             "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
             "watchedAt": "15/09/25",
+            "watchedEmoji": "😐",
             "type": "movie",
             "blacklistedAt": null,
             "imdb": "tt26581740",
@@ -514,21 +521,21 @@
             "id": "tmdb520763"
         },
         {
-            "watchedEmoji": "😐",
-            "status": "watched",
+            "watchedBy": "ss",
+            "watchedEmoji": "👎",
             "title": "Vivarium",
             "poster": "https://image.tmdb.org/t/p/w500/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg",
-            "watchedAt": "17/09/25",
+            "watchedAt": "03/09/25",
             "type": "movie",
             "blacklistedAt": null,
             "imdb": "tt8368406",
             "year": "2019",
             "cineselectRating": 45,
-            "watchedBy": "ss",
+            "id": "tmdb458305",
             "blacklistedBy": null,
-            "imdbRating": 5.9,
+            "status": "watched",
             "rt": 73,
-            "id": "tmdb458305"
+            "imdbRating": 5.9
         }
     ],
     "series": [
