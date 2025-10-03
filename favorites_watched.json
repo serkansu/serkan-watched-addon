@@ -1,1739 +1,1739 @@
 {
     "movies": [
         {
-            "imdbRating": 6.5,
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 73,
-            "blacklistedAt": null,
-            "id": "tmdb2454",
-            "title": "The Chronicles of Narnia: Prince Caspian",
-            "writers": [
-                "Andrew Adamson",
-                "Christopher Markus",
-                "Stephen McFeely"
-            ],
+            "rt": 66,
             "cast": [
                 "Ben Barnes",
                 "Skandar Keynes",
                 "Georgie Henley"
             ],
+            "status": "watched",
+            "watchedAt": "02/10/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "dün bir başladık ... prens li mrensli imdb si düşük müş ama bakacağız",
                     "watchedBy": "s❤️d",
-                    "date": "02/10/25",
-                    "text": "dün bir başladık ... prens li mrensli imdb si düşük müş ama bakacağız"
+                    "date": "02/10/25"
                 }
             ],
+            "watchedBy": "s❤️d",
+            "year": "2008",
+            "imdb": "tt0499448",
+            "blacklistedAt": null,
+            "cineselectRating": 73,
+            "id": "tmdb2454",
+            "watchedEmoji": "👍",
             "directors": [
                 "Andrew Adamson"
             ],
+            "title": "The Chronicles of Narnia: Prince Caspian",
+            "imdbRating": 6.5,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",
             "genres": [
                 "Action",
                 "Adventure",
                 "Family"
             ],
-            "year": "2008",
-            "rt": 66,
-            "blacklistedBy": null,
-            "watchedBy": "s❤️d",
-            "poster": "https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",
-            "watchedEmoji": "👍",
-            "imdb": "tt0499448",
-            "watchedAt": "02/10/25"
+            "writers": [
+                "Andrew Adamson",
+                "Christopher Markus",
+                "Stephen McFeely"
+            ]
         },
         {
-            "imdbRating": 6.9,
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 73,
-            "blacklistedAt": null,
-            "id": "tmdb411",
-            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-            "writers": [
-                "Ann Peacock",
-                "Andrew Adamson",
-                "Christopher Markus"
-            ],
+            "rt": 76,
             "cast": [
                 "Tilda Swinton",
                 "Georgie Henley",
                 "William Moseley"
             ],
+            "status": "watched",
+            "watchedAt": "02/10/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "baba, sketch filmine benzer film bul bana dedi Derin'lik biz de bulduk yarısını köy yolunda yarısını evde yarısını yalnız yarısını beraber izledik",
                     "watchedBy": "s❤️d",
-                    "date": "02/10/25",
-                    "text": "baba, sketch filmine benzer film bul bana dedi Derin'lik biz de bulduk yarısını köy yolunda yarısını evde yarısını yalnız yarısını beraber izledik"
+                    "date": "02/10/25"
                 }
             ],
+            "watchedBy": "s❤️d",
+            "year": "2005",
+            "imdb": "tt0363771",
+            "blacklistedAt": null,
+            "cineselectRating": 73,
+            "id": "tmdb411",
+            "watchedEmoji": "👍",
             "directors": [
                 "Andrew Adamson"
             ],
+            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "imdbRating": 6.9,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
             "genres": [
                 "Adventure",
                 "Family",
                 "Fantasy"
             ],
-            "year": "2005",
-            "rt": 76,
-            "blacklistedBy": null,
-            "watchedBy": "s❤️d",
-            "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
-            "watchedEmoji": "👍",
-            "imdb": "tt0363771",
-            "watchedAt": "02/10/25"
+            "writers": [
+                "Ann Peacock",
+                "Andrew Adamson",
+                "Christopher Markus"
+            ]
         },
         {
-            "watchedAt": "30/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 88,
-            "id": "tmdb1903",
             "rt": 42,
-            "writers": [
-                "Alejandro Amenábar",
-                "Mateo Gil",
-                "Cameron Crowe"
-            ],
             "cast": [
                 "Tom Cruise",
                 "Penélope Cruz",
                 "Cameron Diaz"
             ],
+            "status": "watched",
+            "watchedAt": "30/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "Çok bölük pörçük izledim konuyu anlamak  için ChatGPT yaptım çok güzel konusu varmış 🙂",
                     "watchedBy": "ss",
-                    "date": "30/09/25",
-                    "text": "Çok bölük pörçük izledim konuyu anlamak  için ChatGPT yaptım çok güzel konusu varmış 🙂"
+                    "date": "30/09/25"
                 }
             ],
+            "watchedBy": "ss",
+            "year": "2001",
+            "imdb": "tt0259711",
+            "blacklistedAt": null,
+            "cineselectRating": 88,
+            "id": "tmdb1903",
+            "watchedEmoji": "😐",
             "directors": [
                 "Cameron Crowe"
             ],
+            "title": "Vanilla Sky",
+            "imdbRating": 6.9,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
             "genres": [
                 "Fantasy",
                 "Mystery",
                 "Romance"
             ],
-            "year": "2001",
-            "title": "Vanilla Sky",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
-            "watchedEmoji": "😐",
-            "imdbRating": 6.9,
-            "imdb": "tt0259711"
+            "writers": [
+                "Alejandro Amenábar",
+                "Mateo Gil",
+                "Cameron Crowe"
+            ]
         },
         {
-            "watchedAt": "30/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 99,
-            "id": "tmdb541671",
             "rt": 0,
-            "writers": [
-                "Shay Hatten",
-                "Derek Kolstad"
-            ],
             "cast": [
                 "Ana de Armas",
                 "Keanu Reeves",
                 "Ian McShane"
             ],
+            "status": "watched",
+            "watchedAt": "30/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "Keanuuuuuuu ve Knock Knock kadrosu. knock knock kadar sinir bozucu mu bilmem",
                     "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "Keanuuuuuuu ve Knock Knock kadrosu. knock knock kadar sinir bozucu mu bilmem"
+                    "date": "07/09/25"
                 },
                 {
+                    "text": "Sıradan dövüşlü beyaztv gece sineması",
                     "watchedBy": "ss",
-                    "date": "30/09/25",
-                    "text": "Sıradan dövüşlü beyaztv gece sineması"
+                    "date": "30/09/25"
                 }
             ],
+            "watchedBy": "ss",
+            "year": "2025",
+            "imdb": "tt7181546",
+            "blacklistedAt": null,
+            "cineselectRating": 99,
+            "id": "tmdb541671",
+            "watchedEmoji": null,
             "directors": [
                 "Len Wiseman"
             ],
+            "title": "Ballerina",
+            "imdbRating": 7.0,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
             "genres": [
                 "Action",
                 "Thriller"
             ],
-            "year": "2025",
-            "title": "Ballerina",
-            "watchedBy": "ss",
-            "blacklistedBy": null,
-            "poster": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
-            "watchedEmoji": null,
-            "imdbRating": 7.0,
-            "imdb": "tt7181546"
+            "writers": [
+                "Shay Hatten",
+                "Derek Kolstad"
+            ]
         },
         {
-            "imdbRating": 7.2,
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 73,
-            "blacklistedAt": null,
-            "id": "tmdb1319969",
             "rt": 94,
-            "writers": [
-                "Seth Worley"
-            ],
             "cast": [
                 "Tony Hale",
                 "D'Arcy Carden",
                 "Bianca Belle"
             ],
+            "status": "watched",
+            "watchedAt": "28/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "Derin’le izledik köyde . Senaryo çok güzel konu beğendik",
                     "watchedBy": "ss",
-                    "date": "28/09/25",
-                    "text": "Derin’le izledik köyde . Senaryo çok güzel konu beğendik"
+                    "date": "28/09/25"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "year": "2025",
+            "imdb": "tt26238710",
+            "blacklistedAt": null,
+            "cineselectRating": 73,
+            "id": "tmdb1319969",
+            "watchedEmoji": "👍",
             "directors": [
                 "Seth Worley"
             ],
+            "title": "Sketch",
+            "imdbRating": 7.2,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
             "genres": [
                 "Adventure",
                 "Comedy",
                 "Family"
             ],
-            "year": "2025",
-            "title": "Sketch",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
-            "watchedEmoji": "👍",
-            "imdb": "tt26238710",
-            "watchedAt": "28/09/25"
+            "writers": [
+                "Seth Worley"
+            ]
         },
         {
-            "imdb": "tt1392214",
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 73,
-            "blacklistedAt": null,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "Merak ediyorum eski ve imdb si yüksek"
-                },
-                {
-                    "watchedBy": "ss",
-                    "date": "28/09/25",
-                    "text": "İzledim tek başıma oyunculuk ta senaryo da yi tekrar izlenir"
-                }
-            ],
-            "title": "Prisoners",
-            "writers": [
-                "Aaron Guzikowski"
-            ],
+            "rt": 81,
             "cast": [
                 "Hugh Jackman",
                 "Jake Gyllenhaal",
                 "Viola Davis"
             ],
-            "rt": 81,
+            "status": "watched",
+            "watchedAt": "28/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "Merak ediyorum eski ve imdb si yüksek",
+                    "date": "07/09/25",
+                    "watchedBy": "ss"
+                },
+                {
+                    "text": "İzledim tek başıma oyunculuk ta senaryo da yi tekrar izlenir",
+                    "watchedBy": "ss",
+                    "date": "28/09/25"
+                }
+            ],
+            "watchedBy": "ss",
+            "imdb": "tt1392214",
+            "year": "2013",
+            "blacklistedAt": null,
+            "cineselectRating": 73,
+            "id": "tmdb146233",
+            "watchedEmoji": "👍",
             "directors": [
                 "Denis Villeneuve"
             ],
+            "title": "Prisoners",
+            "imdbRating": 8.2,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
             "genres": [
                 "Crime",
                 "Drama",
                 "Mystery"
             ],
-            "year": "2013",
-            "id": "tmdb146233",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
-            "watchedEmoji": "👍",
-            "imdbRating": 8.2,
-            "watchedAt": "28/09/25"
+            "writers": [
+                "Aaron Guzikowski"
+            ]
         },
         {
-            "watchedAt": "21/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 71,
-            "id": "tmdb1029281",
-            "title": "Strange Darling",
-            "writers": [
-                "JT Mollner"
-            ],
+            "rt": 96,
             "cast": [
                 "Willa Fitzgerald",
                 "Kyle Gallner",
                 "Madisen Beaty"
             ],
+            "status": "watched",
+            "watchedAt": "21/09/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "öz❤️ss",
+                    "text": "Tam ters köşe 👍 beğendik pazar gece gece  son seçim di",
                     "date": "21/09/25",
-                    "text": "Tam ters köşe 👍 beğendik pazar gece gece  son seçim di"
+                    "watchedBy": "öz❤️ss"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt22375054",
+            "year": "2024",
+            "blacklistedAt": null,
+            "cineselectRating": 71,
+            "id": "tmdb1029281",
+            "watchedEmoji": "😐",
             "directors": [
                 "JT Mollner"
             ],
+            "title": "Strange Darling",
+            "imdbRating": 7.1,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
             "genres": [
                 "Horror",
                 "Thriller"
             ],
-            "year": "2024",
-            "rt": 96,
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
-            "watchedEmoji": "😐",
-            "imdbRating": 7.1,
-            "imdb": "tt22375054"
+            "writers": [
+                "JT Mollner"
+            ]
         },
         {
-            "watchedAt": "21/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 99,
-            "id": "tmdb1300116",
-            "title": "Fall for Me",
-            "writers": [
-                "Stefanie Sycholt"
-            ],
+            "rt": 0,
             "cast": [
                 "Svenja Jung",
                 "Theo Trebs",
                 "Thomas Kretschmann"
             ],
+            "status": "watched",
+            "watchedAt": "21/09/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "öz❤️ss",
+                    "text": "görüntüler çok güzel imdb si düşük am abakacağız nasıl mış..",
                     "date": "21/09/25",
-                    "text": "görüntüler çok güzel imdb si düşük am abakacağız nasıl mış.."
+                    "watchedBy": "öz❤️ss"
                 },
                 {
-                    "watchedBy": "ss",
+                    "text": "Çok basit geldi kapadık",
                     "date": "21/09/25",
-                    "text": "Çok basit geldi kapadık"
+                    "watchedBy": "ss"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "year": "2025",
+            "imdb": "tt32543884",
+            "blacklistedAt": null,
+            "cineselectRating": 99,
+            "id": "tmdb1300116",
+            "watchedEmoji": "😐",
             "directors": [
                 "Sherry Hormann"
             ],
+            "title": "Fall for Me",
+            "imdbRating": 4.8,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/yBM5QwUIQVh1LsefBtpqlq46OZ0.jpg",
             "genres": [
                 "Thriller"
             ],
-            "year": "2025",
-            "rt": 0,
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/yBM5QwUIQVh1LsefBtpqlq46OZ0.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt32543884",
-            "imdbRating": 4.8
+            "writers": [
+                "Stefanie Sycholt"
+            ]
         },
         {
-            "watchedAt": "21/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 100,
-            "id": "tmdb1368165",
             "rt": 0,
-            "writers": [
-                "Kinoko Nasu",
-                "Akira Hiyama"
-            ],
             "cast": [
                 "Yu Asakawa",
                 "Michael Donovan",
                 "Melissa Fahn"
             ],
+            "status": "watched",
+            "watchedAt": "21/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "Güzel filmmiş bir ara izleyelim, orijinal ismi MUKADDERAT",
                     "watchedBy": "öz",
-                    "date": "21/09/25",
-                    "text": "Güzel filmmiş bir ara izleyelim, orijinal ismi MUKADDERAT"
+                    "date": "21/09/25"
                 },
                 {
+                    "text": "bu flimin imdb linki doğru yere gitmiyor ama burada yer alsın diye ekledim",
                     "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "bu flimin imdb linki doğru yere gitmiyor ama burada yer alsın diye ekledim"
+                    "date": "07/09/25"
                 },
                 {
+                    "text": "Şimdi başladık güzel eğlenceli başladı 🙂 öyle de bitti pazar günü telefonla takılırken izlenecek filmlerden..",
                     "watchedBy": "öz❤️ss",
-                    "date": "21/09/25",
-                    "text": "Şimdi başladık güzel eğlenceli başladı 🙂 öyle de bitti pazar günü telefonla takılırken izlenecek filmlerden.."
+                    "date": "21/09/25"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt8092118",
+            "year": "2024",
+            "blacklistedAt": null,
+            "cineselectRating": 100,
+            "id": "tmdb1368165",
+            "watchedEmoji": "👍👍👍",
             "directors": [
                 "Tomonori Sudô"
             ],
+            "title": "Fate",
+            "imdbRating": 7.9,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/yonelGVN7h4HSFC5H99EfzygiZe.jpg",
             "genres": [
                 "Animation",
                 "Adventure",
                 "Drama"
             ],
-            "year": "2024",
-            "title": "Fate",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/yonelGVN7h4HSFC5H99EfzygiZe.jpg",
-            "watchedEmoji": "👍👍👍",
-            "imdbRating": 7.9,
-            "imdb": "tt8092118"
+            "writers": [
+                "Kinoko Nasu",
+                "Akira Hiyama"
+            ]
         },
         {
-            "watchedAt": "20/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 100,
-            "id": "tmdb399057",
             "rt": 79,
-            "writers": [
-                "Yorgos Lanthimos",
-                "Efthimis Filippou"
-            ],
             "cast": [
                 "Barry G. Bernson",
                 "Herb Caillouet",
                 "Bill Camp"
             ],
+            "status": "watched",
+            "watchedAt": "20/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "Hayret izlememişiz bunfilmi  Kidman ve Ferral a rağmen",
                     "watchedBy": "öz❤️ss",
-                    "date": "20/09/25",
-                    "text": "Hayret izlememişiz bunfilmi  Kidman ve Ferral a rağmen"
+                    "date": "20/09/25"
                 },
                 {
+                    "text": "lanete inanır mısın ?çok kasvetli",
                     "watchedBy": "öz❤️ss",
-                    "date": "21/09/25",
-                    "text": "lanete inanır mısın ?çok kasvetli"
+                    "date": "21/09/25"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt5715874",
+            "year": "2017",
+            "blacklistedAt": null,
+            "cineselectRating": 100,
+            "id": "tmdb399057",
+            "watchedEmoji": "😐",
             "directors": [
                 "Yorgos Lanthimos"
             ],
+            "title": "The Killing of a Sacred Deer",
+            "imdbRating": 7.0,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
             "genres": [
                 "Drama",
                 "Horror",
                 "Mystery"
             ],
-            "year": "2017",
-            "title": "The Killing of a Sacred Deer",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
-            "watchedEmoji": "😐",
-            "imdbRating": 7.0,
-            "imdb": "tt5715874"
+            "writers": [
+                "Yorgos Lanthimos",
+                "Efthimis Filippou"
+            ]
         },
         {
-            "imdbRating": 6.3,
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 63,
-            "blacklistedAt": null,
-            "id": "tmdb1097311",
             "rt": 51,
-            "writers": [
-                "Brad Ingelsby"
-            ],
             "cast": [
                 "Julianne Moore",
                 "Sydney Sweeney",
                 "Domhnall Gleeson"
             ],
+            "status": "watched",
+            "watchedAt": "19/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "Kanald akşaleı yayınlanan sıradan bir film gibi",
                     "watchedBy": "öz",
-                    "date": "19/09/25",
-                    "text": "Kanald akşaleı yayınlanan sıradan bir film gibi"
+                    "date": "19/09/25"
                 }
             ],
+            "watchedBy": "öz",
+            "year": "2025",
+            "imdb": "tt27052633",
+            "blacklistedAt": null,
+            "cineselectRating": 63,
+            "id": "tmdb1097311",
+            "watchedEmoji": "😐",
             "directors": [
                 "Michael Pearce"
             ],
+            "title": "Echo Valley",
+            "imdbRating": 6.3,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/3Ey3HuqZdrx1rfxRkfiOXDFtvtl.jpg",
             "genres": [
                 "Drama",
                 "Thriller"
             ],
-            "year": "2025",
-            "title": "Echo Valley",
-            "blacklistedBy": null,
-            "watchedBy": "öz",
-            "poster": "https://image.tmdb.org/t/p/w500/3Ey3HuqZdrx1rfxRkfiOXDFtvtl.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt27052633",
-            "watchedAt": "19/09/25"
+            "writers": [
+                "Brad Ingelsby"
+            ]
         },
         {
-            "watchedAt": "15/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 50,
-            "id": "tmdb1078605",
             "rt": 94,
-            "writers": [
-                "Zach Cregger"
-            ],
             "cast": [
                 "Julia Garner",
                 "Josh Brolin",
                 "Alden Ehrenreich"
             ],
+            "status": "watched",
+            "watchedAt": "15/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "Güzel başladı ilginç devam etti sonra çok kötü bozdu",
                     "watchedBy": "öz❤️ss",
-                    "date": "17/09/25",
-                    "text": "Güzel başladı ilginç devam etti sonra çok kötü bozdu"
+                    "date": "17/09/25"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "year": "2025",
+            "imdb": "tt26581740",
+            "blacklistedAt": null,
+            "cineselectRating": 50,
+            "id": "tmdb1078605",
+            "watchedEmoji": "😐",
             "directors": [
                 "Zach Cregger"
             ],
+            "title": "Weapons",
+            "imdbRating": 7.8,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
             "genres": [
                 "Horror",
                 "Mystery"
             ],
-            "year": "2025",
-            "title": "Weapons",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt26581740",
-            "imdbRating": 7.8
+            "writers": [
+                "Zach Cregger"
+            ]
         },
         {
-            "imdb": "tt27534307",
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 71,
-            "blacklistedAt": null,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "12/09/25",
-                    "text": "Çok iyi gerilim .Filmi yarıda kapatmak istedim şu an izlerken yazıyorum şok gerginim"
-                }
-            ],
-            "title": "Speak No Evil",
-            "writers": [
-                "James Watkins",
-                "Christian Tafdrup",
-                "Mads Tafdrup"
-            ],
+            "rt": 82,
             "cast": [
                 "James McAvoy",
                 "Mackenzie Davis",
                 "Scoot McNairy"
             ],
-            "rt": 82,
+            "status": "watched",
+            "watchedAt": "12/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "Çok iyi gerilim .Filmi yarıda kapatmak istedim şu an izlerken yazıyorum şok gerginim",
+                    "date": "12/09/25",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt27534307",
+            "year": "2024",
+            "blacklistedAt": null,
+            "cineselectRating": 71,
+            "id": "tmdb1114513",
+            "watchedEmoji": "👍",
             "directors": [
                 "James Watkins"
             ],
+            "title": "Speak No Evil",
+            "imdbRating": 6.8,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/6NwAlU6ZH6ua3sYpFAUpUnoKUmi.jpg",
             "genres": [
                 "Drama",
                 "Horror",
                 "Thriller"
             ],
-            "year": "2024",
-            "id": "tmdb1114513",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/6NwAlU6ZH6ua3sYpFAUpUnoKUmi.jpg",
-            "watchedEmoji": "👍",
-            "imdbRating": 6.8,
-            "watchedAt": "12/09/25"
+            "writers": [
+                "James Watkins",
+                "Christian Tafdrup",
+                "Mads Tafdrup"
+            ]
         },
         {
-            "watchedAt": "12/09/25",
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 82,
-            "blacklistedAt": null,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "10/09/25",
-                    "text": "Kubrick filmlerini chat gpt ile analiz ediyor tartışıyoruz 2001/eyeswideshot şimdi de bu"
-                }
-            ],
-            "title": "A Clockwork Orange",
-            "writers": [
-                "Stanley Kubrick",
-                "Anthony Burgess"
-            ],
+            "rt": 86,
             "cast": [
                 "Malcolm McDowell",
                 "Patrick Magee",
                 "Michael Bates"
             ],
-            "rt": 86,
+            "status": "watched",
+            "watchedAt": "12/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "Kubrick filmlerini chat gpt ile analiz ediyor tartışıyoruz 2001/eyeswideshot şimdi de bu",
+                    "date": "10/09/25",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "ss",
+            "year": "1971",
+            "imdb": "tt0066921",
+            "blacklistedAt": null,
+            "cineselectRating": 82,
+            "id": "tmdb185",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Stanley Kubrick"
             ],
+            "title": "A Clockwork Orange",
+            "imdbRating": 8.2,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
             "genres": [
                 "Crime",
                 "Sci-Fi"
             ],
-            "year": "1971",
-            "id": "tmdb185",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
-            "watchedEmoji": "👍👍",
-            "imdbRating": 8.2,
-            "imdb": "tt0066921"
-        },
-        {
-            "watchedAt": "12/09/25",
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 84,
-            "blacklistedAt": null,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "İzledim ama tekrar izlemeye  değer unuttum"
-                },
-                {
-                    "watchedBy": "ss",
-                    "date": "09/09/25",
-                    "text": "José Saramago Körlük geldi aklıma.. insan görülmediğinde veya maske taktığında medeni kalabilir mi? N.Kidman,Tom Crusie  ne kadar gençmiş 9 evliymişler ,2 yıl daha kalmışlar 400gün çekimler sürmüş çok yorucuymuş bu filmde olmak"
-                }
-            ],
-            "title": "Eyes Wide Shut",
             "writers": [
                 "Stanley Kubrick",
-                "Frederic Raphael",
-                "Arthur Schnitzler"
-            ],
+                "Anthony Burgess"
+            ]
+        },
+        {
+            "rt": 76,
             "cast": [
                 "Tom Cruise",
                 "Nicole Kidman",
                 "Todd Field"
             ],
-            "rt": 76,
+            "status": "watched",
+            "watchedAt": "12/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "İzledim ama tekrar izlemeye  değer unuttum",
+                    "date": "07/09/25",
+                    "watchedBy": "ss"
+                },
+                {
+                    "text": "José Saramago Körlük geldi aklıma.. insan görülmediğinde veya maske taktığında medeni kalabilir mi? N.Kidman,Tom Crusie  ne kadar gençmiş 9 evliymişler ,2 yıl daha kalmışlar 400gün çekimler sürmüş çok yorucuymuş bu filmde olmak",
+                    "date": "09/09/25",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "ss",
+            "year": "1999",
+            "imdb": "tt0120663",
+            "blacklistedAt": null,
+            "cineselectRating": 84,
+            "id": "tmdb345",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Stanley Kubrick"
             ],
+            "title": "Eyes Wide Shut",
+            "imdbRating": 7.5,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
             "genres": [
                 "Drama",
                 "Mystery",
                 "Thriller"
             ],
-            "year": "1999",
-            "id": "tmdb345",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
-            "watchedEmoji": "👍👍",
-            "imdbRating": 7.5,
-            "imdb": "tt0120663"
+            "writers": [
+                "Stanley Kubrick",
+                "Frederic Raphael",
+                "Arthur Schnitzler"
+            ]
         },
         {
-            "watchedAt": "12/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 50,
-            "id": "tmdb447332",
-            "title": "A Quiet Place",
-            "writers": [
-                "Bryan Woods",
-                "Scott Beck",
-                "John Krasinski"
-            ],
+            "rt": 96,
             "cast": [
                 "Emily Blunt",
                 "John Krasinski",
                 "Millicent Simmonds"
             ],
+            "status": "watched",
+            "watchedAt": "12/09/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "öz❤️ss",
+                    "text": "25 dakika izledik sessizlikten yorulduk kapadık",
                     "date": "12/09/25",
-                    "text": "25 dakika izledik sessizlikten yorulduk kapadık"
+                    "watchedBy": "öz❤️ss"
                 },
                 {
+                    "text": "sonra ben boş vakit bulunca tekrar baktım imdb si bol keseden verilmiş ben ce 6.1 i geçmez o da sonu biraz heyecanlı diye",
                     "watchedBy": "ss",
-                    "date": "02/10/25",
-                    "text": "sonra ben boş vakit bulunca tekrar baktım imdb si bol keseden verilmiş ben ce 6.1 i geçmez o da sonu biraz heyecanlı diye"
+                    "date": "02/10/25"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt6644200",
+            "year": "2018",
+            "blacklistedAt": null,
+            "cineselectRating": 50,
+            "id": "tmdb447332",
+            "watchedEmoji": "😐",
             "directors": [
                 "John Krasinski"
             ],
+            "title": "A Quiet Place",
+            "imdbRating": 7.5,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
             "genres": [
                 "Drama",
                 "Horror",
                 "Sci-Fi"
             ],
-            "year": "2018",
-            "rt": 96,
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt6644200",
-            "imdbRating": 7.5
+            "writers": [
+                "Bryan Woods",
+                "Scott Beck",
+                "John Krasinski"
+            ]
         },
         {
-            "watchedAt": "12/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 50,
-            "id": "tmdb520763",
             "rt": 91,
-            "writers": [
-                "John Krasinski",
-                "Bryan Woods",
-                "Scott Beck"
-            ],
             "cast": [
                 "Emily Blunt",
                 "Millicent Simmonds",
                 "Cillian Murphy"
             ],
+            "status": "watched",
+            "watchedAt": "12/09/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "ss",
+                    "text": "Birincisindeki ilk 25 dakika ikinciyi izlemeden bıraktırdı",
                     "date": "12/09/25",
-                    "text": "Birincisindeki ilk 25 dakika ikinciyi izlemeden bıraktırdı"
+                    "watchedBy": "ss"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "year": "2021",
+            "imdb": "tt8332922",
+            "blacklistedAt": null,
+            "cineselectRating": 50,
+            "id": "tmdb520763",
+            "watchedEmoji": "😐",
             "directors": [
                 "John Krasinski"
             ],
+            "title": "A Quiet Place Part II",
+            "imdbRating": 7.2,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
             "genres": [
                 "Drama",
                 "Horror",
                 "Sci-Fi"
             ],
-            "year": "2021",
-            "title": "A Quiet Place Part II",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
-            "watchedEmoji": "😐",
-            "imdbRating": 7.2,
-            "imdb": "tt8332922"
+            "writers": [
+                "John Krasinski",
+                "Bryan Woods",
+                "Scott Beck"
+            ]
         },
         {
-            "watchedAt": "10/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 100,
-            "id": "tmdb590",
             "rt": 79,
-            "writers": [
-                "Michael Cunningham",
-                "David Hare"
-            ],
             "cast": [
                 "Meryl Streep",
                 "Nicole Kidman",
                 "Julianne Moore"
             ],
+            "status": "watched",
+            "watchedAt": "10/09/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "öz❤️ss",
+                    "text": "Kidman Oscar almış özel burnuyla :) diye merak ettik ama sarmadı  geldi biraz bakıp kapattık",
                     "date": "10/09/25",
-                    "text": "Kidman Oscar almış özel burnuyla :) diye merak ettik ama sarmadı  geldi biraz bakıp kapattık"
+                    "watchedBy": "öz❤️ss"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "year": "2002",
+            "imdb": "tt0274558",
+            "blacklistedAt": null,
+            "cineselectRating": 100,
+            "id": "tmdb590",
+            "watchedEmoji": "😐",
             "directors": [
                 "Stephen Daldry"
             ],
+            "title": "The Hours",
+            "imdbRating": 7.5,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
             "genres": [
                 "Drama",
                 "Romance"
             ],
-            "year": "2002",
-            "title": "The Hours",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
-            "watchedEmoji": "😐",
-            "imdbRating": 7.5,
-            "imdb": "tt0274558"
+            "writers": [
+                "Michael Cunningham",
+                "David Hare"
+            ]
         },
         {
-            "imdbRating": 7.0,
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 82,
-            "id": "tmdb1090",
-            "title": "The Thirteenth Floor",
-            "writers": [
-                "Daniel F. Galouye",
-                "Josef Rusnak",
-                "Ravel Centeno-Rodriguez"
-            ],
+            "rt": 28,
             "cast": [
                 "Craig Bierko",
                 "Gretchen Mol",
                 "Armin Mueller-Stahl"
             ],
+            "status": "watched",
+            "watchedAt": "05/09/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "test yorum4",
                     "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "test yorum4"
+                    "date": "07/09/25"
                 },
                 {
+                    "text": "matrix ile aynı yıl çevrilen benzer üç flim olduğunu chatgptden örğneince izledimaa",
                     "watchedBy": "ss",
-                    "date": "06/09/25",
-                    "text": "matrix ile aynı yıl çevrilen benzer üç flim olduğunu chatgptden örğneince izledimaa"
+                    "date": "06/09/25"
                 }
             ],
+            "watchedBy": "ss",
+            "year": "1999",
+            "imdb": "tt0139809",
+            "cineselectRating": 82,
+            "id": "tmdb1090",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Josef Rusnak"
             ],
+            "title": "The Thirteenth Floor",
+            "imdbRating": 7.0,
             "genres": [
                 "Mystery",
                 "Sci-Fi",
                 "Thriller"
             ],
-            "year": "1999",
-            "rt": 28,
-            "watchedBy": "ss",
             "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
-            "watchedEmoji": "👍👍",
-            "watchedAt": "05/09/25",
-            "imdb": "tt0139809"
+            "writers": [
+                "Daniel F. Galouye",
+                "Josef Rusnak",
+                "Ravel Centeno-Rodriguez"
+            ]
         },
         {
-            "watchedAt": "05/09/25",
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 79,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "06 Eylül 2025 Cumartesi",
-                    "text": "coen kardeşler ,kara mizah karakterlerinin ilk izlerini taşıyan güzel bir filmdi"
-                }
-            ],
             "rt": 94,
-            "writers": [
-                "Joel Coen",
-                "Ethan Coen"
-            ],
             "cast": [
                 "John Getz",
                 "Frances McDormand",
                 "Dan Hedaya"
             ],
-            "title": "Blood Simple",
+            "status": "watched",
+            "watchedAt": "05/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "coen kardeşler ,kara mizah karakterlerinin ilk izlerini taşıyan güzel bir filmdi",
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "ss",
+            "imdb": "tt0086979",
+            "year": "1984",
+            "cineselectRating": 79,
+            "id": "tmdb11368",
+            "watchedEmoji": "👍",
             "directors": [
                 "Joel Coen",
                 "Ethan Coen"
             ],
+            "title": "Blood Simple",
+            "imdbRating": 7.5,
             "genres": [
                 "Crime",
                 "Drama",
                 "Thriller"
             ],
-            "year": "1984",
-            "id": "tmdb11368",
-            "watchedBy": "ss",
             "poster": "https://image.tmdb.org/t/p/w500/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
-            "watchedEmoji": "👍",
-            "imdb": "tt0086979",
-            "imdbRating": 7.5
-        },
-        {
-            "watchedAt": "05/09/25",
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 85,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "06 Eylül 2025 Cumartesi",
-                    "text": "Coen kardeşlerin bir başyapıtı tekrar tekrar izlenecek bir film çok beğendim"
-                },
-                {
-                    "watchedBy": "ss",
-                    "date": "06 Eylül 2025 Cumartesi",
-                    "text": "nasıl bugüne kadar izlememişim anlamadım"
-                }
-            ],
-            "title": "No Country for Old Men",
             "writers": [
                 "Joel Coen",
-                "Ethan Coen",
-                "Cormac McCarthy"
-            ],
+                "Ethan Coen"
+            ]
+        },
+        {
+            "rt": 93,
             "cast": [
                 "Tommy Lee Jones",
                 "Javier Bardem",
                 "Josh Brolin"
             ],
-            "rt": 93,
+            "status": "watched",
+            "watchedAt": "05/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "Coen kardeşlerin bir başyapıtı tekrar tekrar izlenecek bir film çok beğendim",
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "ss"
+                },
+                {
+                    "text": "nasıl bugüne kadar izlememişim anlamadım",
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "ss",
+            "year": "2007",
+            "imdb": "tt0477348",
+            "cineselectRating": 85,
+            "id": "tmdb6977",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Ethan Coen",
                 "Joel Coen"
             ],
+            "title": "No Country for Old Men",
+            "imdbRating": 8.2,
             "genres": [
                 "Crime",
                 "Drama",
                 "Thriller"
             ],
-            "year": "2007",
-            "id": "tmdb6977",
-            "watchedBy": "ss",
             "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
-            "watchedEmoji": "👍👍",
-            "imdbRating": 8.2,
-            "imdb": "tt0477348"
+            "writers": [
+                "Joel Coen",
+                "Ethan Coen",
+                "Cormac McCarthy"
+            ]
         },
         {
-            "watchedAt": "05/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 81,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "17/09/25",
-                    "text": "Harika bir filmdi Hollywood u holywwod yapanlar bunlar işte diyorsun . Robert Redford yaşıyormuş hala dedim izlerken bir hafta sonra öldü ☹️"
-                }
-            ],
             "rt": 93,
-            "writers": [
-                "David S. Ward"
-            ],
             "cast": [
                 "Paul Newman",
                 "Robert Redford",
                 "Robert Shaw"
             ],
-            "title": "The Sting",
+            "status": "watched",
+            "watchedAt": "05/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "Harika bir filmdi Hollywood u holywwod yapanlar bunlar işte diyorsun . Robert Redford yaşıyormuş hala dedim izlerken bir hafta sonra öldü ☹️",
+                    "watchedBy": "ss",
+                    "date": "17/09/25"
+                }
+            ],
+            "watchedBy": "ss",
+            "imdb": "tt0070735",
+            "year": "1973",
+            "blacklistedAt": null,
+            "cineselectRating": 81,
+            "id": "tmdb9277",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "George Roy Hill"
             ],
+            "title": "The Sting",
+            "imdbRating": 8.3,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
             "genres": [
                 "Comedy",
                 "Crime",
                 "Drama"
             ],
-            "year": "1973",
-            "id": "tmdb9277",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
-            "watchedEmoji": "👍👍",
-            "imdb": "tt0070735",
-            "imdbRating": 8.3
+            "writers": [
+                "David S. Ward"
+            ]
         },
         {
-            "watchedAt": "03/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 45,
-            "id": "tmdb458305",
             "rt": 73,
-            "writers": [
-                "Garret Shanley",
-                "Lorcan Finnegan"
-            ],
             "cast": [
                 "Imogen Poots",
                 "Danielle Ryan",
                 "Molly McCann"
             ],
-            "title": "Vivarium",
+            "status": "watched",
+            "watchedAt": "03/09/25",
+            "type": "movie",
+            "watchedBy": "ss",
+            "imdb": "tt8368406",
+            "year": "2019",
+            "blacklistedAt": null,
+            "cineselectRating": 45,
+            "id": "tmdb458305",
+            "watchedEmoji": "👎",
             "directors": [
                 "Lorcan Finnegan"
             ],
+            "title": "Vivarium",
+            "imdbRating": 5.9,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg",
             "genres": [
                 "Horror",
                 "Mystery",
                 "Sci-Fi"
             ],
-            "year": "2019",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg",
-            "watchedEmoji": "👎",
-            "imdb": "tt8368406",
-            "imdbRating": 5.9
+            "writers": [
+                "Garret Shanley",
+                "Lorcan Finnegan"
+            ]
         },
         {
-            "watchedAt": "02/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 80,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "başladık ama izleyemedik çünkü dosyalar bozuk kesik kesik"
-                }
-            ],
             "rt": 97,
-            "writers": [
-                "Ernest Lehman"
-            ],
             "cast": [
                 "Cary Grant",
                 "Eva Marie Saint",
                 "James Mason"
             ],
-            "title": "North by Northwest",
+            "status": "watched",
+            "watchedAt": "02/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "başladık ama izleyemedik çünkü dosyalar bozuk kesik kesik",
+                    "date": "07/09/25",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "öz❤️ss",
+            "year": "1959",
+            "imdb": "tt0053125",
+            "blacklistedAt": null,
+            "cineselectRating": 80,
+            "id": "tmdb213",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Alfred Hitchcock"
             ],
+            "title": "North by Northwest",
+            "imdbRating": 8.3,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
             "genres": [
                 "Adventure",
                 "Drama",
                 "Mystery"
             ],
-            "year": "1959",
-            "id": "tmdb213",
-            "watchedBy": "öz❤️ss",
-            "blacklistedBy": null,
-            "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
-            "watchedEmoji": "👍👍",
-            "imdb": "tt0053125",
-            "imdbRating": 8.3
+            "writers": [
+                "Ernest Lehman"
+            ]
         },
         {
-            "watchedAt": "01/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 78,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "06/09/25",
-                    "text": "spor müsabakalarının hele hele beyzbol amerikan futbolu gibi filmler çok ilgimi çekmez brad Pitt için izledim amagerçek bir  hikayeymiş ve çok başarılı buldum"
-                }
-            ],
             "rt": 94,
-            "writers": [
-                "Steven Zaillian",
-                "Aaron Sorkin",
-                "Stan Chervin"
-            ],
             "cast": [
                 "Brad Pitt",
                 "Robin Wright",
                 "Jonah Hill"
             ],
-            "title": "Moneyball",
+            "writers": [
+                "Steven Zaillian",
+                "Aaron Sorkin",
+                "Stan Chervin"
+            ],
+            "status": "watched",
+            "watchedAt": "01/09/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "spor müsabakalarının hele hele beyzbol amerikan futbolu gibi filmler çok ilgimi çekmez brad Pitt için izledim amagerçek bir  hikayeymiş ve çok başarılı buldum",
+                    "date": "06/09/25",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "ss",
+            "imdb": "tt1210166",
+            "year": "2011",
+            "blacklistedAt": null,
+            "cineselectRating": 78,
+            "id": "tmdb60308",
+            "watchedEmoji": "👍",
             "directors": [
                 "Bennett Miller"
             ],
+            "title": "Moneyball",
+            "imdbRating": 7.6,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
             "genres": [
                 "Biography",
                 "Drama",
                 "Sport"
             ],
-            "year": "2011",
-            "id": "tmdb60308",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "comment": "bu filmi hiç izlemedime şaşırıyorum  hem de gerçek hayat hikayesiymiş — (ss) • 06 Eylül 2025 Cumartesi 08:50",
-            "poster": "https://image.tmdb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
-            "watchedEmoji": "👍",
-            "imdbRating": 7.6,
-            "imdb": "tt1210166"
+            "comment": "bu filmi hiç izlemedime şaşırıyorum  hem de gerçek hayat hikayesiymiş — (ss) • 06 Eylül 2025 Cumartesi 08:50"
         },
         {
-            "watchedAt": "01/09/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 73,
-            "id": "tmdb911430",
-            "title": "F1",
-            "writers": [
-                "Joseph Kosinski",
-                "Ehren Kruger"
-            ],
+            "rt": 83,
             "cast": [
                 "Brad Pitt",
                 "Damson Idris",
                 "Javier Bardem"
             ],
+            "status": "watched",
+            "watchedAt": "01/09/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "ss",
+                    "text": "Brad Pitt bakışlarından yaşı biraz belli oluyor artık yine de karizma ..",
                     "date": "09/09/25",
-                    "text": "Brad Pitt bakışlarından yaşı biraz belli oluyor artık yine de karizma .."
+                    "watchedBy": "ss"
                 }
             ],
+            "watchedBy": "ss",
+            "imdb": "tt16311594",
+            "year": "2025",
+            "blacklistedAt": null,
+            "cineselectRating": 73,
+            "id": "tmdb911430",
+            "watchedEmoji": "👍",
             "directors": [
                 "Joseph Kosinski"
             ],
+            "title": "F1",
+            "imdbRating": 7.9,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
             "genres": [
                 "Action",
                 "Drama",
                 "Sport"
             ],
-            "year": "2025",
-            "rt": 83,
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
-            "watchedEmoji": "👍",
-            "imdb": "tt16311594",
-            "imdbRating": 7.9
+            "writers": [
+                "Joseph Kosinski",
+                "Ehren Kruger"
+            ]
         },
         {
-            "watchedAt": "28/08/25",
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 92,
-            "comments": [
-                {
-                    "watchedBy": "öz",
-                    "date": "06 Eylül 2025 Cumartesi",
-                    "text": "daha önce izlemiştik ama hatırlayamadık tekrar izledik bayıldık"
-                }
-            ],
             "rt": 95,
-            "writers": [
-                "Ethan Coen",
-                "Joel Coen"
-            ],
             "cast": [
                 "William H. Macy",
                 "Frances McDormand",
                 "Steve Buscemi"
             ],
-            "title": "Fargo",
+            "status": "watched",
+            "watchedAt": "28/08/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "daha önce izlemiştik ama hatırlayamadık tekrar izledik bayıldık",
+                    "watchedBy": "öz",
+                    "date": "06 Eylül 2025 Cumartesi"
+                }
+            ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt0116282",
+            "year": "1996",
+            "cineselectRating": 92,
+            "id": "tmdb275",
+            "watchedEmoji": "👍👍👍",
             "directors": [
                 "Joel Coen",
                 "Ethan Coen"
             ],
+            "title": "Fargo",
+            "imdbRating": 8.1,
             "genres": [
                 "Crime",
                 "Drama",
                 "Thriller"
             ],
-            "year": "1996",
-            "id": "tmdb275",
-            "watchedBy": "öz❤️ss",
             "poster": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
-            "watchedEmoji": "👍👍👍",
-            "imdbRating": 8.1,
-            "imdb": "tt0116282"
+            "writers": [
+                "Ethan Coen",
+                "Joel Coen"
+            ]
         },
         {
-            "watchedAt": "20/08/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 80,
-            "comments": [
-                {
-                    "watchedBy": "ss",
-                    "date": "06/09/25",
-                    "text": "özlem izledi ama ben henüz izlemedim"
-                }
-            ],
             "rt": 99,
-            "writers": [
-                "John Michael Hayes",
-                "Cornell Woolrich"
-            ],
             "cast": [
                 "James Stewart",
                 "Grace Kelly",
                 "Wendell Corey"
             ],
-            "title": "Rear Window",
+            "status": "watched",
+            "watchedAt": "20/08/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "text": "özlem izledi ama ben henüz izlemedim",
+                    "date": "06/09/25",
+                    "watchedBy": "ss"
+                }
+            ],
+            "watchedBy": "öz",
+            "year": "1954",
+            "imdb": "tt0047396",
+            "blacklistedAt": null,
+            "cineselectRating": 80,
+            "id": "tmdb567",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Alfred Hitchcock"
             ],
+            "title": "Rear Window",
+            "imdbRating": 8.5,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
             "genres": [
                 "Drama",
                 "Mystery",
                 "Thriller"
             ],
-            "year": "1954",
-            "id": "tmdb567",
-            "watchedBy": "öz",
-            "blacklistedBy": null,
-            "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
-            "watchedEmoji": "👍👍",
-            "imdb": "tt0047396",
-            "imdbRating": 8.5
+            "writers": [
+                "John Michael Hayes",
+                "Cornell Woolrich"
+            ]
         },
         {
-            "imdbRating": 7.0,
-            "type": "movie",
-            "status": "watched",
-            "cineselectRating": 75,
-            "id": "tmdb576845",
             "rt": 75,
-            "writers": [
-                "Edgar Wright",
-                "Krysty Wilson-Cairns"
-            ],
             "cast": [
                 "Thomasin McKenzie",
                 "Anya Taylor-Joy",
                 "Matt Smith"
             ],
+            "status": "watched",
+            "watchedAt": "20/08/25",
+            "type": "movie",
             "comments": [
                 {
+                    "text": "şaşırtıcı sonu var",
                     "watchedBy": "öz",
-                    "date": "06 Eylül 2025 Cumartesi",
-                    "text": "şaşırtıcı sonu var"
+                    "date": "06 Eylül 2025 Cumartesi"
                 }
             ],
+            "watchedBy": "öz",
+            "imdb": "tt9639470",
+            "year": "2021",
+            "cineselectRating": 75,
+            "id": "tmdb576845",
+            "watchedEmoji": "👍",
             "directors": [
                 "Edgar Wright"
             ],
+            "title": "Last Night in Soho",
+            "imdbRating": 7.0,
             "genres": [
                 "Drama",
                 "Horror",
                 "Mystery"
             ],
-            "year": "2021",
-            "title": "Last Night in Soho",
-            "watchedBy": "öz",
             "poster": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
-            "watchedEmoji": "👍",
-            "imdb": "tt9639470",
-            "watchedAt": "20/08/25"
+            "writers": [
+                "Edgar Wright",
+                "Krysty Wilson-Cairns"
+            ]
         },
         {
-            "watchedAt": "12/08/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 81,
-            "id": "tmdb3175",
-            "title": "Barry Lyndon",
-            "writers": [
-                "Stanley Kubrick",
-                "William Makepeace Thackeray"
-            ],
+            "rt": 78,
             "cast": [
                 "Ryan O'Neal",
                 "Marisa Berenson",
                 "Patrick Magee"
             ],
+            "status": "watched",
+            "watchedAt": "12/08/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "öz",
+                    "text": "coen kardeşlerin görselliğin çok güzel olduğu ilk filmlerinden sonraki filmlerine ait ipuçları var ama genel olarak görsellik içeren bir flim bir daha izler miyim izlemem...",
                     "date": "07/09/25",
-                    "text": "coen kardeşlerin görselliğin çok güzel olduğu ilk filmlerinden sonraki filmlerine ait ipuçları var ama genel olarak görsellik içeren bir flim bir daha izler miyim izlemem..."
+                    "watchedBy": "öz"
                 },
                 {
-                    "watchedBy": "ss",
+                    "text": "görsellik harika  ancak coen kardeşlerin kara mizahı henüz vitrine çıkmamış",
                     "date": "07/09/25",
-                    "text": "görsellik harika  ancak coen kardeşlerin kara mizahı henüz vitrine çıkmamış"
+                    "watchedBy": "ss"
                 }
             ],
+            "watchedBy": "ss",
+            "year": "1975",
+            "imdb": "tt0072684",
+            "blacklistedAt": null,
+            "cineselectRating": 81,
+            "id": "tmdb3175",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Stanley Kubrick"
             ],
+            "title": "Barry Lyndon",
+            "imdbRating": 8.1,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
             "genres": [
                 "Adventure",
                 "Drama",
                 "War"
             ],
-            "year": "1975",
-            "rt": 78,
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
-            "watchedEmoji": "👍👍",
-            "imdb": "tt0072684",
-            "imdbRating": 8.1
+            "writers": [
+                "Stanley Kubrick",
+                "William Makepeace Thackeray"
+            ]
         },
         {
-            "watchedAt": "12/08/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 64,
-            "id": "tmdb426",
-            "title": "Vertigo",
-            "writers": [
-                "Alec Coppel",
-                "Samuel A. Taylor",
-                "Pierre Boileau"
-            ],
+            "rt": 93,
             "cast": [
                 "James Stewart",
                 "Kim Novak",
                 "Barbara Bel Geddes"
             ],
+            "status": "watched",
+            "watchedAt": "12/08/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "ss",
+                    "text": "özlem çok beğenmedi ben eh işte",
                     "date": "07/09/25",
-                    "text": "özlem çok beğenmedi ben eh işte"
+                    "watchedBy": "ss"
                 }
             ],
+            "watchedBy": "ss",
+            "year": "1958",
+            "imdb": "tt0052357",
+            "blacklistedAt": null,
+            "cineselectRating": 64,
+            "id": "tmdb426",
+            "watchedEmoji": "😐",
             "directors": [
                 "Alfred Hitchcock"
             ],
+            "title": "Vertigo",
+            "imdbRating": 8.2,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
             "genres": [
                 "Mystery",
                 "Romance",
                 "Thriller"
             ],
-            "year": "1958",
-            "rt": 93,
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt0052357",
-            "imdbRating": 8.2
+            "writers": [
+                "Alec Coppel",
+                "Samuel A. Taylor",
+                "Pierre Boileau"
+            ]
         },
         {
-            "watchedAt": "17/07/25",
-            "type": "movie",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 82,
-            "id": "tmdb62",
-            "title": "2001: A Space Odyssey",
-            "writers": [
-                "Stanley Kubrick",
-                "Arthur C. Clarke"
-            ],
+            "rt": 90,
             "cast": [
                 "Keir Dullea",
                 "Gary Lockwood",
                 "William Sylvester"
             ],
+            "status": "watched",
+            "watchedAt": "17/07/25",
+            "type": "movie",
             "comments": [
                 {
-                    "watchedBy": "öz",
+                    "text": "(filmi izlemeden önce) aslında maymun ve kemik sahnesi çok tanıdık, müzikler çok tanıdık ama filmi baştan sona izlemediğimi farkettim kokup kopuk izlemişim . ama 1968 de böyle bir filmin yapıldığına hala inanamıyorum aya bile gitmeden önce",
                     "date": "06/09/25",
-                    "text": "(filmi izlemeden önce) aslında maymun ve kemik sahnesi çok tanıdık, müzikler çok tanıdık ama filmi baştan sona izlemediğimi farkettim kokup kopuk izlemişim . ama 1968 de böyle bir filmin yapıldığına hala inanamıyorum aya bile gitmeden önce"
+                    "watchedBy": "öz"
                 }
             ],
+            "watchedBy": "ss",
+            "imdb": "tt0062622",
+            "year": "1968",
+            "blacklistedAt": null,
+            "cineselectRating": 82,
+            "id": "tmdb62",
+            "watchedEmoji": "👍👍",
             "directors": [
                 "Stanley Kubrick"
             ],
+            "title": "2001: A Space Odyssey",
+            "imdbRating": 8.3,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
             "genres": [
                 "Adventure",
                 "Sci-Fi"
             ],
-            "year": "1968",
-            "rt": 90,
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
-            "watchedEmoji": "👍👍",
-            "imdbRating": 8.3,
-            "imdb": "tt0062622"
+            "writers": [
+                "Stanley Kubrick",
+                "Arthur C. Clarke"
+            ]
         }
     ],
     "series": [
         {
-            "watchedAt": "28/09/25",
-            "type": "show",
-            "status": "watched",
-            "cineselectRating": 74,
-            "blacklistedAt": null,
-            "comments": [
-                {
-                    "watchedBy": "öz❤️ss",
-                    "date": "17/09/25",
-                    "text": "Özlem dün başlamış dakika 27 de  filmin gidişini beğenip beni beklemiş şu an dakika 45 filan çok iyi gidiyor"
-                },
-                {
-                    "watchedBy": "öz❤️ss",
-                    "date": "23/09/25",
-                    "text": "Erkan önerdi"
-                }
-            ],
-            "title": "The Night Of",
-            "writers": [
-                "Richard Price",
-                "Steven Zaillian"
-            ],
+            "rt": 0,
             "cast": [
                 "Riz Ahmed",
                 "John Turturro",
                 "Bill Camp"
             ],
-            "rt": 0,
+            "status": "watched",
+            "watchedAt": "28/09/25",
+            "type": "show",
+            "comments": [
+                {
+                    "text": "Özlem dün başlamış dakika 27 de  filmin gidişini beğenip beni beklemiş şu an dakika 45 filan çok iyi gidiyor",
+                    "date": "17/09/25",
+                    "watchedBy": "öz❤️ss"
+                },
+                {
+                    "text": "Erkan önerdi",
+                    "date": "23/09/25",
+                    "watchedBy": "öz❤️ss"
+                }
+            ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt2401256",
+            "year": "2016",
+            "blacklistedAt": null,
+            "cineselectRating": 74,
+            "id": "tmdb66276",
+            "watchedEmoji": "👍",
             "directors": [],
+            "title": "The Night Of",
+            "imdbRating": 8.4,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
             "genres": [
                 "Crime",
                 "Drama",
                 "Mystery"
             ],
-            "year": "2016",
-            "id": "tmdb66276",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
-            "watchedEmoji": "👍",
-            "imdbRating": 8.4,
-            "imdb": "tt2401256"
+            "writers": [
+                "Richard Price",
+                "Steven Zaillian"
+            ]
         },
         {
-            "imdbRating": 7.1,
-            "type": "show",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 99,
-            "id": "tmdb249039",
             "rt": 0,
-            "writers": [],
             "cast": [
                 "Jude Law",
                 "Jason Bateman",
                 "Cleopatra Coleman"
             ],
+            "status": "watched",
+            "watchedAt": "20/09/25",
+            "type": "show",
             "comments": [
                 {
-                    "watchedBy": "ss",
+                    "text": "Jude law",
                     "date": "20/09/25",
-                    "text": "Jude law"
+                    "watchedBy": "ss"
                 },
                 {
-                    "watchedBy": "öz❤️ss",
+                    "text": "Jason Bateman(ozark) , Jude law oynuyor nefes kesici başladı",
                     "date": "20/09/25",
-                    "text": "Jason Bateman(ozark) , Jude law oynuyor nefes kesici başladı"
+                    "watchedBy": "öz❤️ss"
                 },
                 {
-                    "watchedBy": "ss",
+                    "text": "Özem sıkıldı be beğendim güzel gidiyor bölüm 3",
                     "date": "21/09/25",
-                    "text": "Özem sıkıldı be beğendim güzel gidiyor bölüm 3"
+                    "watchedBy": "ss"
                 },
                 {
-                    "watchedBy": "ss",
+                    "text": "Son bölümdeyim çok iyi miş dizi bb Fargo dan sonra Ozark paralelinde rating li iyi dizi yapmışlar",
                     "date": "23/09/25",
-                    "text": "Son bölümdeyim çok iyi miş dizi bb Fargo dan sonra Ozark paralelinde rating li iyi dizi yapmışlar"
+                    "watchedBy": "ss"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt23055142",
+            "year": "2025",
+            "blacklistedAt": null,
+            "cineselectRating": 99,
+            "id": "tmdb249039",
+            "watchedEmoji": "😐",
             "directors": [],
+            "title": "Black Rabbit",
+            "imdbRating": 7.1,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
             "genres": [
                 "Crime",
                 "Drama",
                 "Mystery"
             ],
-            "year": "2025",
-            "title": "Black Rabbit",
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt23055142",
-            "watchedAt": "20/09/25"
+            "writers": []
         },
         {
-            "watchedAt": "07/09/25",
-            "type": "show",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 85,
-            "id": "tmdb157239",
-            "title": "Alien: Earth",
-            "writers": [
-                "Noah Hawley"
-            ],
+            "rt": 0,
             "cast": [
                 "Sydney Chandler",
                 "Alex Lawther",
                 "Essie Davis"
             ],
+            "writers": [
+                "Noah Hawley"
+            ],
+            "status": "watched",
+            "watchedAt": "07/09/25",
+            "type": "show",
             "comments": [
                 {
+                    "text": "Çok iyi",
                     "watchedBy": "ss",
-                    "date": "06/09/25",
-                    "text": "Çok iyi"
+                    "date": "06/09/25"
                 },
                 {
+                    "text": "Coen kardeşlerin üvey kardeşi;)Noah Hawley'in bu seri nin arkasında  olduğunu öğrenince  zaten  bilmeden başlamıştım  sonra daha da sarıldım.Her hafta yeni bölüm çıkıyor",
                     "watchedBy": "ss",
-                    "date": "12/09/25",
-                    "text": "Coen kardeşlerin üvey kardeşi;)Noah Hawley'in bu seri nin arkasında  olduğunu öğrenince  zaten  bilmeden başlamıştım  sonra daha da sarıldım.Her hafta yeni bölüm çıkıyor"
+                    "date": "12/09/25"
                 },
                 {
+                    "text": "sezon sonu 8nci bölüm de güzel di genel olarak güzel di",
                     "watchedBy": "ss",
-                    "date": "02/10/25",
-                    "text": "sezon sonu 8nci bölüm de güzel di genel olarak güzel di"
+                    "date": "02/10/25"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt13623632",
+            "year": "2025",
+            "blacklistedAt": null,
+            "cineselectRating": 85,
+            "id": "tmdb157239",
+            "watchedEmoji": null,
             "directors": [],
+            "title": "Alien: Earth",
+            "imdbRating": 0.0,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
             "genres": [
                 "Horror",
                 "Sci-Fi",
                 "Thriller"
             ],
-            "year": "2025",
-            "rt": 0,
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "comment": "Coen kardeşlerin olduğunu duyunca şaşırdım Fargo dizisi ile bu dizinin aynı yönetmenler tarafından yapıldığını görmek şaşırtıcı — (ss) • 06 Eylül 2025 Cumartesi 08:47",
-            "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
-            "watchedEmoji": null,
-            "imdb": "tt13623632",
-            "imdbRating": 0.0
+            "comment": "Coen kardeşlerin olduğunu duyunca şaşırdım Fargo dizisi ile bu dizinin aynı yönetmenler tarafından yapıldığını görmek şaşırtıcı — (ss) • 06 Eylül 2025 Cumartesi 08:47"
         },
         {
-            "watchedAt": "07/09/25",
-            "type": "show",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 100,
-            "comments": [
-                {
-                    "watchedBy": "öz❤️ss",
-                    "date": "07/09/25",
-                    "text": "görki çok beğenmiş sabah mesajıyla bizi uyandırdı biz de izleyelim dedik :)="
-                }
-            ],
-            "title": "Atatürk 1881-1919",
-            "writers": [],
+            "rt": 0,
             "cast": [
                 "Aras Bulut Iynemli",
                 "Sarp Akkaya",
                 "Esra Bilgiç"
             ],
-            "rt": 0,
+            "status": "watched",
+            "watchedAt": "07/09/25",
+            "type": "show",
+            "comments": [
+                {
+                    "text": "görki çok beğenmiş sabah mesajıyla bizi uyandırdı biz de izleyelim dedik :)=",
+                    "watchedBy": "öz❤️ss",
+                    "date": "07/09/25"
+                }
+            ],
+            "watchedBy": "ss",
+            "imdb": "tt15676170",
+            "year": "2024",
+            "blacklistedAt": null,
+            "cineselectRating": 100,
+            "id": "tmdb276344",
+            "watchedEmoji": "😐",
             "directors": [],
+            "title": "Atatürk 1881-1919",
+            "imdbRating": 8.8,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/1ycSNEDArSiapTHdiamVrYzQFt4.jpg",
             "genres": [
                 "Biography",
                 "Drama",
                 "History"
             ],
-            "year": "2024",
-            "id": "tmdb276344",
-            "watchedBy": "ss",
-            "blacklistedBy": null,
-            "poster": "https://image.tmdb.org/t/p/w500/1ycSNEDArSiapTHdiamVrYzQFt4.jpg",
-            "watchedEmoji": "😐",
-            "imdbRating": 8.8,
-            "imdb": "tt15676170"
+            "writers": []
         },
         {
-            "watchedAt": "07/09/25",
-            "type": "show",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 93,
-            "id": "tmdb60622",
-            "title": "Fargo",
-            "writers": [
-                "Noah Hawley"
-            ],
+            "rt": 0,
             "cast": [
                 "Billy Bob Thornton",
                 "Martin Freeman",
                 "Allison Tolman"
             ],
+            "status": "watched",
+            "watchedAt": "07/09/25",
+            "type": "show",
             "comments": [
                 {
+                    "text": "Noah Hawley 'indizisi bu ama coen kardeşlerin tüm karakteri burada . kara mizah müthiş",
                     "watchedBy": "ss",
-                    "date": "12/09/25",
-                    "text": "Noah Hawley 'indizisi bu ama coen kardeşlerin tüm karakteri burada . kara mizah müthiş"
+                    "date": "12/09/25"
                 },
                 {
+                    "text": "coenler'i Fargo ile tanıdım no country of old men ile anladım ,blood simple ile emin oldum ve Fargo dizisiyle onların takipçisi Noah Hawley'i  çok sevdim :)",
                     "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "coenler'i Fargo ile tanıdım no country of old men ile anladım ,blood simple ile emin oldum ve Fargo dizisiyle onların takipçisi Noah Hawley'i  çok sevdim :)"
+                    "date": "07/09/25"
                 },
                 {
+                    "text": "Şu an 2nci sezon ortalarına geldik .evet evet bende bu dizi artık bb den sonra 2 numara . Bb bu diziden sonra çekilmiş 🙈",
                     "watchedBy": "ss",
-                    "date": "11/09/25",
-                    "text": "Şu an 2nci sezon ortalarına geldik .evet evet bende bu dizi artık bb den sonra 2 numara . Bb bu diziden sonra çekilmiş 🙈"
+                    "date": "11/09/25"
                 }
             ],
+            "watchedBy": "ss",
+            "imdb": "tt2802850",
+            "year": "2014",
+            "blacklistedAt": null,
+            "cineselectRating": 93,
+            "id": "tmdb60622",
+            "watchedEmoji": "😐",
             "directors": [],
+            "title": "Fargo",
+            "imdbRating": 8.8,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
             "genres": [
                 "Crime",
                 "Drama",
                 "Thriller"
             ],
-            "year": "2014",
-            "rt": 0,
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "poster": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-            "watchedEmoji": "😐",
-            "imdbRating": 8.8,
-            "imdb": "tt2802850"
-        },
-        {
-            "watchedAt": "07/09/25",
-            "type": "show",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 55,
-            "id": "tmdb67195",
-            "rt": 0,
             "writers": [
                 "Noah Hawley"
-            ],
+            ]
+        },
+        {
+            "rt": 0,
             "cast": [
                 "Dan Stevens",
                 "Rachel Keller",
                 "Aubrey Plaza"
             ],
+            "writers": [
+                "Noah Hawley"
+            ],
+            "status": "watched",
+            "watchedAt": "07/09/25",
+            "type": "show",
             "comments": [
                 {
+                    "text": "Beğenmedim çok karışık kalabalık geldi sonra tekrar bakacağğız",
                     "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "Beğenmedim çok karışık kalabalık geldi sonra tekrar bakacağğız"
+                    "date": "07/09/25"
                 },
                 {
+                    "text": "Coen kardeşlerin en kaotik dizisi olabilir sonra belki tekrar denerim",
                     "watchedBy": "ss",
-                    "date": "07/09/25",
-                    "text": "Coen kardeşlerin en kaotik dizisi olabilir sonra belki tekrar denerim"
+                    "date": "07/09/25"
                 }
             ],
+            "watchedBy": "ss",
+            "year": "2017",
+            "imdb": "tt5114356",
+            "blacklistedAt": null,
+            "cineselectRating": 55,
+            "id": "tmdb67195",
+            "watchedEmoji": "😐",
             "directors": [],
+            "title": "Legion",
+            "imdbRating": 8.1,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
             "genres": [
                 "Action",
                 "Sci-Fi",
                 "Thriller"
             ],
-            "year": "2017",
-            "title": "Legion",
-            "blacklistedBy": null,
-            "watchedBy": "ss",
-            "comment": "filmi çok beğenmedim eminim ilerideki bölümlerde hareketleniyordur ama hastanedeki ilk bölüm sahneleri bana karanlık geldi — (ss) • 06 Eylül 2025 Cumartesi 08:44",
-            "poster": "https://image.tmdb.org/t/p/w500/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt5114356",
-            "imdbRating": 8.1
+            "comment": "filmi çok beğenmedim eminim ilerideki bölümlerde hareketleniyordur ama hastanedeki ilk bölüm sahneleri bana karanlık geldi — (ss) • 06 Eylül 2025 Cumartesi 08:44"
         },
         {
-            "watchedAt": "06/09/25",
-            "type": "show",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 25,
-            "id": "tmdb84661",
-            "title": "The Outsider",
-            "writers": [
-                "Richard Price"
-            ],
+            "rt": 0,
             "cast": [
                 "Ben Mendelsohn",
                 "Bill Camp",
                 "Jeremy Bobb"
             ],
+            "status": "watched",
+            "watchedAt": "06/09/25",
+            "type": "show",
             "comments": [
                 {
-                    "watchedBy": "öz",
+                    "text": "dizi Stephen king romanından alındığı nı öğrenince bekliyorduk zaten bir kaç bölüm sonra saçmalamaya başladı kapattık",
                     "date": "06/09/25",
-                    "text": "dizi Stephen king romanından alındığı nı öğrenince bekliyorduk zaten bir kaç bölüm sonra saçmalamaya başladı kapattık"
+                    "watchedBy": "öz"
                 }
             ],
+            "watchedBy": "öz❤️ss",
+            "imdb": "tt8550800",
+            "year": "2020",
+            "blacklistedAt": null,
+            "cineselectRating": 25,
+            "id": "tmdb84661",
+            "watchedEmoji": "👎",
             "directors": [],
+            "title": "The Outsider",
+            "imdbRating": 7.6,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg",
             "genres": [
                 "Crime",
                 "Drama",
                 "Horror"
             ],
-            "year": "2020",
-            "rt": 0,
-            "blacklistedBy": null,
-            "watchedBy": "öz❤️ss",
-            "poster": "https://image.tmdb.org/t/p/w500/aMiPwPQjQI1EZN3xP2V0sSU37dc.jpg",
-            "watchedEmoji": "👎",
-            "imdbRating": 7.6,
-            "imdb": "tt8550800"
+            "writers": [
+                "Richard Price"
+            ]
         },
         {
-            "watchedAt": "18/06/25",
-            "type": "show",
-            "status": "watched",
-            "cineselectRating": 85,
-            "comments": [
-                {
-                    "watchedBy": "öz",
-                    "date": "06 Eylül 2025 Cumartesi",
-                    "text": "yaratıcı"
-                }
-            ],
             "rt": 0,
-            "writers": [
-                "James Manos Jr."
-            ],
             "cast": [
                 "Michael C. Hall",
                 "Jennifer Carpenter",
                 "David Zayas"
             ],
-            "title": "Dexter",
+            "status": "watched",
+            "watchedAt": "18/06/25",
+            "type": "show",
+            "comments": [
+                {
+                    "text": "yaratıcı",
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "öz"
+                }
+            ],
+            "watchedBy": "öz",
+            "imdb": "tt0773262",
+            "year": "2006",
+            "cineselectRating": 85,
+            "id": "tmdb1405",
+            "watchedEmoji": "👍👍",
             "directors": [],
+            "title": "Dexter",
+            "imdbRating": 8.6,
             "genres": [
                 "Crime",
                 "Drama",
                 "Mystery"
             ],
-            "year": "2006",
-            "id": "tmdb1405",
-            "watchedBy": "öz",
             "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-            "watchedEmoji": "👍👍",
-            "imdb": "tt0773262",
-            "imdbRating": 8.6
+            "writers": [
+                "James Manos Jr."
+            ]
         },
         {
-            "watchedAt": "01/05/25",
-            "type": "show",
-            "status": "watched",
-            "blacklistedAt": null,
-            "cineselectRating": 50,
-            "id": "tmdb74764",
-            "title": "Tabula Rasa",
-            "writers": [
-                "Veerle Baetens",
-                "Malin-Sarah Gozin"
-            ],
+            "rt": 0,
             "cast": [
                 "Veerle Baetens",
                 "Stijn Van Opstal",
                 "Jeroen Perceval"
             ],
+            "status": "watched",
+            "watchedAt": "01/05/25",
+            "type": "show",
             "comments": [
                 {
+                    "text": "ben beğendim,elif'e de önerdim",
                     "watchedBy": "öz",
-                    "date": "07/09/25",
-                    "text": "ben beğendim,elif'e de önerdim"
+                    "date": "07/09/25"
                 }
             ],
+            "watchedBy": "öz",
+            "imdb": "tt5197860",
+            "year": "2017",
+            "blacklistedAt": null,
+            "cineselectRating": 50,
+            "id": "tmdb74764",
+            "watchedEmoji": "😐",
             "directors": [],
+            "title": "Tabula Rasa",
+            "imdbRating": 7.9,
+            "blacklistedBy": null,
+            "poster": "https://image.tmdb.org/t/p/w500/A8LZI3pv0VgXsfad9AFDtv6ZTJC.jpg",
             "genres": [
                 "Drama",
                 "Horror",
                 "Thriller"
             ],
-            "year": "2017",
-            "rt": 0,
-            "blacklistedBy": null,
-            "watchedBy": "öz",
-            "poster": "https://image.tmdb.org/t/p/w500/A8LZI3pv0VgXsfad9AFDtv6ZTJC.jpg",
-            "watchedEmoji": "😐",
-            "imdb": "tt5197860",
-            "imdbRating": 7.9
+            "writers": [
+                "Veerle Baetens",
+                "Malin-Sarah Gozin"
+            ]
         }
     ]
 }
