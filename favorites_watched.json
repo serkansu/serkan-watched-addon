@@ -1,8 +1,90 @@
 {
     "movies": [
         {
+            "directors": [
+                "Joseph Sargent"
+            ],
+            "status": "watched",
+            "cineselectRating": 71,
+            "poster": "https://image.tmdb.org/t/p/w500/lk2wEO6Rt3mnZmfRTu8wvYiGPmp.jpg",
+            "id": "tmdb20544",
+            "rt": 0,
+            "overview": "A dramatization of the relationship between heart surgery pioneers Alfred Blalock and Vivien Thomas.",
+            "imdbRating": 8.1,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Peter Silverman",
+                "Robert Caswell"
+            ],
+            "genres": [
+                "Biography",
+                "Drama",
+                "TV Movie"
+            ],
+            "watchedEmoji": "😐",
+            "title": "Something the Lord Made",
+            "year": "2004",
+            "watchedAt": "20/10/25",
+            "type": "movie",
+            "cast": [
+                "Cliff McMullen",
+                "Yasiin Bey",
+                "Luray Cooper",
+                "Alan Rickman",
+                "Kyra Sedgwick",
+                "Gabrielle Union",
+                "Merritt Wever",
+                "Charles S. Dutton",
+                "Mary Stuart Masterson"
+            ],
+            "imdb": "tt0386792",
+            "comments": [
+                {
+                    "date": "20/10/25",
+                    "watchedBy": "öz",
+                    "text": "Gerçek hayat hikayesiymiş dr.thomas ‘ın büstü var Hopkins üniversitesinde"
+                }
+            ]
+        },
+        {
+            "directors": [
+                "Roman Polanski",
+                "Sylvette Baudrot"
+            ],
+            "status": "watched",
+            "cineselectRating": 71,
+            "poster": "https://image.tmdb.org/t/p/w500/hlUXQ2aEuYDEE0ok7DORE4uffjl.jpg",
+            "id": "10531",
+            "rt": 82,
+            "overview": "A political activist is convinced that her guest is a man who once tortured her for the government.",
+            "imdbRating": 7.2,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "Ariel Dorfman",
+                "Rafael Yglesias"
+            ],
+            "genres": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "watchedEmoji": null,
+            "title": "Death and the Maiden",
             "imdb": "tt0109579",
+            "watchedAt": "12/10/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "date": "12/10/25",
+                    "watchedBy": "ss",
+                    "text": "bir baş yapıt değil ama  sürükleyici ve Sigourney Weaver için izlenir"
+                }
+            ],
+            "year": 1994,
             "cast": [
                 "Sigourney Weaver",
                 "Ben Kingsley",
@@ -13,45 +95,38 @@
                 "Gilberto Cortés",
                 "Jorge Cruz",
                 "Carlos Moreno"
+            ]
+        },
+        {
+            "directors": [
+                "Christopher Nolan",
+                "Steve Gehrke",
+                "Chris Edmonds"
             ],
-            "watchedAt": "12/10/25",
-            "overview": "A political activist is convinced that her guest is a man who once tortured her for the government.",
+            "status": "watched",
+            "cineselectRating": 145,
+            "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "id": "tmdb77",
+            "rt": 94,
+            "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "imdbRating": 8.4,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "Christopher Nolan",
+                "Jonathan Nolan"
+            ],
             "genres": [
                 "Drama",
                 "Mystery",
                 "Thriller"
             ],
-            "rt": 82,
-            "imdbRating": 7.2,
-            "comments": [
-                {
-                    "text": "bir baş yapıt değil ama  sürükleyici ve Sigourney Weaver için izlenir",
-                    "watchedBy": "ss",
-                    "date": "12/10/25"
-                }
-            ],
-            "year": 1994,
-            "cineselectRating": 71,
-            "poster": "https://image.tmdb.org/t/p/w500/hlUXQ2aEuYDEE0ok7DORE4uffjl.jpg",
-            "directors": [
-                "Roman Polanski",
-                "Sylvette Baudrot"
-            ],
-            "id": "10531",
+            "year": "2000",
+            "imdb": "tt0209144",
+            "title": "Memento",
+            "watchedAt": "06/10/25",
             "type": "movie",
-            "status": "watched",
-            "title": "Death and the Maiden",
-            "watchedBy": "ss",
-            "watchedEmoji": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Ariel Dorfman",
-                "Rafael Yglesias"
-            ]
-        },
-        {
-            "watchedEmoji": "😐",
-            "blacklistedAt": null,
             "cast": [
                 "Guy Pearce",
                 "Carrie-Anne Moss",
@@ -63,68 +138,16 @@
                 "Harriet Sansom Harris",
                 "Thomas Lennon"
             ],
-            "year": "2000",
-            "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
-            "watchedAt": "06/10/25",
-            "rt": 94,
-            "imdbRating": 8.4,
+            "watchedEmoji": "😐",
             "comments": [
                 {
-                    "text": "İkinci kez izledim neyin yakan Nolan filmi",
+                    "date": "06/10/25",
                     "watchedBy": "ss",
-                    "date": "06/10/25"
+                    "text": "İkinci kez izledim neyin yakan Nolan filmi"
                 }
-            ],
-            "genres": [
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "cineselectRating": 145,
-            "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
-            "directors": [
-                "Christopher Nolan",
-                "Steve Gehrke",
-                "Chris Edmonds"
-            ],
-            "id": "tmdb77",
-            "type": "movie",
-            "status": "watched",
-            "title": "Memento",
-            "watchedBy": "ss",
-            "imdb": "tt0209144",
-            "blacklistedBy": null,
-            "writers": [
-                "Christopher Nolan",
-                "Jonathan Nolan"
             ]
         },
         {
-            "watchedEmoji": "😐",
-            "imdb": "tt0980970",
-            "cast": [
-                "Ben Barnes",
-                "Skandar Keynes",
-                "Georgie Henley",
-                "Will Poulter",
-                "Anna Popplewell",
-                "Tilda Swinton",
-                "William Moseley",
-                "Simon Pegg",
-                "Liam Neeson"
-            ],
-            "watchedAt": "05/10/25",
-            "overview": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.",
-            "genres": [
-                "Adventure",
-                "Family",
-                "Fantasy"
-            ],
-            "rt": 50,
-            "imdbRating": 6.3,
-            "year": "2010",
-            "cineselectRating": 73,
-            "poster": "https://image.tmdb.org/t/p/w500/pP27zlm9yeKrCeDZLFLP2HKELot.jpg",
             "directors": [
                 "Michael Apted",
                 "Deborah Antoniou",
@@ -144,23 +167,73 @@
                 "Peter McLennan",
                 "Victoria Sullivan"
             ],
-            "id": "tmdb10140",
-            "type": "movie",
             "status": "watched",
-            "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+            "cineselectRating": 73,
+            "poster": "https://image.tmdb.org/t/p/w500/pP27zlm9yeKrCeDZLFLP2HKELot.jpg",
+            "id": "tmdb10140",
+            "rt": 50,
+            "overview": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.",
+            "imdbRating": 6.3,
+            "blacklistedBy": null,
             "blacklistedAt": null,
             "watchedBy": "s❤️d",
-            "blacklistedBy": null,
             "writers": [
                 "Christopher Markus",
                 "Stephen McFeely",
                 "Michael Petroni",
                 "C. S. Lewis"
-            ]
+            ],
+            "genres": [
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "year": "2010",
+            "imdb": "tt0980970",
+            "watchedEmoji": "😐",
+            "watchedAt": "05/10/25",
+            "type": "movie",
+            "cast": [
+                "Ben Barnes",
+                "Skandar Keynes",
+                "Georgie Henley",
+                "Will Poulter",
+                "Anna Popplewell",
+                "Tilda Swinton",
+                "William Moseley",
+                "Simon Pegg",
+                "Liam Neeson"
+            ],
+            "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader"
         },
         {
-            "watchedBy": "öz❤️ss",
+            "directors": [
+                "Michael Radford"
+            ],
+            "status": "watched",
+            "cineselectRating": 75,
+            "poster": "https://image.tmdb.org/t/p/w500/qENzVKfdyNBAwShcS0YhWeJe34M.jpg",
+            "id": "tmdb13195",
+            "rt": 56,
+            "overview": "A female executive and a night janitor conspire to commit a daring diamond heist from their mutual employer, The London Diamond Corporation.",
+            "imdbRating": 6.7,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Edward Anderson"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "year": "2007",
+            "imdb": "tt0780516",
+            "title": "Flawless",
+            "watchedAt": "05/10/25",
+            "type": "movie",
+            "watchedEmoji": "😐",
             "cast": [
                 "Demi Moore",
                 "Michael Caine",
@@ -172,42 +245,49 @@
                 "Silas Carson",
                 "Derren Nesbitt"
             ],
-            "watchedAt": "05/10/25",
-            "overview": "A female executive and a night janitor conspire to commit a daring diamond heist from their mutual employer, The London Diamond Corporation.",
-            "year": "2007",
-            "rt": 56,
-            "imdbRating": 6.7,
             "comments": [
                 {
-                    "text": "çok başarılı bulduk filmi eski bir film ama izlememişiz harikaydı",
                     "watchedBy": "öz❤️ss",
-                    "date": "05/10/25"
+                    "date": "05/10/25",
+                    "text": "çok başarılı bulduk filmi eski bir film ama izlememişiz harikaydı"
                 }
-            ],
-            "genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "cineselectRating": 75,
-            "directors": [
-                "Michael Radford"
-            ],
-            "poster": "https://image.tmdb.org/t/p/w500/qENzVKfdyNBAwShcS0YhWeJe34M.jpg",
-            "id": "tmdb13195",
-            "type": "movie",
-            "status": "watched",
-            "title": "Flawless",
-            "watchedEmoji": "😐",
-            "imdb": "tt0780516",
-            "blacklistedBy": null,
-            "writers": [
-                "Edward Anderson"
             ]
         },
         {
-            "watchedEmoji": "👍",
+            "directors": [
+                "Seth Worley"
+            ],
+            "status": "watched",
+            "cineselectRating": 73,
+            "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
+            "id": "tmdb1319969",
+            "rt": 94,
+            "overview": "When a young girl’s sketchbook falls into a strange pond, her drawings come to life—chaotic, real, and on the loose. As the town descends into chaos, her family must reunite and stop the monsters they never meant to unleash.",
+            "imdbRating": 7.2,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
             "watchedBy": "s❤️d",
+            "writers": [
+                "Seth Worley"
+            ],
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "watchedEmoji": "👍",
+            "title": "Sketch",
+            "imdb": "tt26238710",
+            "watchedAt": "05/10/25",
+            "type": "movie",
+            "comments": [
+                {
+                    "watchedBy": "ss",
+                    "date": "28/09/25",
+                    "text": "Derin’le izledik köyde . Senaryo çok güzel konu beğendik"
+                }
+            ],
             "cast": [
                 "Tony Hale",
                 "D'Arcy Carden",
@@ -219,74 +299,9 @@
                 "Randa Newman",
                 "Allie McCulloch"
             ],
-            "watchedAt": "05/10/25",
-            "overview": "When a young girl’s sketchbook falls into a strange pond, her drawings come to life—chaotic, real, and on the loose. As the town descends into chaos, her family must reunite and stop the monsters they never meant to unleash.",
-            "genres": [
-                "Adventure",
-                "Comedy",
-                "Family",
-                "Fantasy"
-            ],
-            "rt": 94,
-            "imdbRating": 7.2,
-            "comments": [
-                {
-                    "text": "Derin’le izledik köyde . Senaryo çok güzel konu beğendik",
-                    "watchedBy": "ss",
-                    "date": "28/09/25"
-                }
-            ],
-            "year": "2025",
-            "cineselectRating": 73,
-            "directors": [
-                "Seth Worley"
-            ],
-            "poster": "https://image.tmdb.org/t/p/w500/sxiDj3dTgZuCPkx30Jvyq8K9QUV.jpg",
-            "id": "tmdb1319969",
-            "type": "movie",
-            "status": "watched",
-            "title": "Sketch",
-            "blacklistedAt": null,
-            "imdb": "tt26238710",
-            "blacklistedBy": null,
-            "writers": [
-                "Seth Worley"
-            ]
+            "year": "2025"
         },
         {
-            "watchedBy": "s❤️d",
-            "blacklistedAt": null,
-            "cast": [
-                "Ben Barnes",
-                "Skandar Keynes",
-                "Georgie Henley",
-                "William Moseley",
-                "Anna Popplewell",
-                "Tilda Swinton",
-                "Peter Dinklage",
-                "Sergio Castellitto",
-                "Eddie Izzard"
-            ],
-            "year": "2008",
-            "overview": "One year after their incredible adventures in the Lion, the Witch and the Wardrobe, Peter, Edmund, Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now, with the help of a colorful cast of new characters, including Trufflehunter the badger and Nikabrik the dwarf, the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir.",
-            "watchedAt": "02/10/25",
-            "rt": 66,
-            "imdbRating": 6.5,
-            "comments": [
-                {
-                    "text": "dün bir başladık ... prens li mrensli imdb si düşük müş ama bakacağız",
-                    "watchedBy": "s❤️d",
-                    "date": "02/10/25"
-                }
-            ],
-            "genres": [
-                "Action",
-                "Adventure",
-                "Family",
-                "Fantasy"
-            ],
-            "cineselectRating": 73,
-            "poster": "https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",
             "directors": [
                 "Andrew Adamson",
                 "Jakub Dvorak",
@@ -312,53 +327,54 @@
                 "Bryan Lee Hudkins",
                 "Gabriel Reid"
             ],
-            "id": "tmdb2454",
-            "type": "movie",
             "status": "watched",
-            "title": "The Chronicles of Narnia: Prince Caspian",
-            "watchedEmoji": "👍",
-            "imdb": "tt0499448",
+            "cineselectRating": 73,
+            "poster": "https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",
+            "id": "tmdb2454",
+            "rt": 66,
+            "overview": "One year after their incredible adventures in the Lion, the Witch and the Wardrobe, Peter, Edmund, Lucy and Susan Pevensie return to Narnia to aid a young prince whose life has been threatened by the evil King Miraz. Now, with the help of a colorful cast of new characters, including Trufflehunter the badger and Nikabrik the dwarf, the Pevensie clan embarks on an incredible quest to ensure that Narnia is returned to its rightful heir.",
+            "imdbRating": 6.5,
             "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "s❤️d",
             "writers": [
                 "Andrew Adamson",
                 "Christopher Markus",
                 "Stephen McFeely",
                 "C. S. Lewis"
-            ]
-        },
-        {
-            "watchedBy": "s❤️d",
-            "blacklistedAt": null,
-            "cast": [
-                "Tilda Swinton",
-                "Georgie Henley",
-                "William Moseley",
-                "Anna Popplewell",
-                "Skandar Keynes",
-                "Liam Neeson",
-                "James McAvoy",
-                "Jim Broadbent",
-                "Ray Winstone"
             ],
-            "year": "2005",
-            "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
             "genres": [
+                "Action",
                 "Adventure",
                 "Family",
                 "Fantasy"
             ],
-            "rt": 76,
-            "imdbRating": 6.9,
+            "year": "2008",
+            "title": "The Chronicles of Narnia: Prince Caspian",
+            "imdb": "tt0499448",
+            "watchedAt": "02/10/25",
+            "type": "movie",
+            "watchedEmoji": "👍",
             "comments": [
                 {
-                    "text": "baba, sketch filmine benzer film bul bana dedi Derin'lik biz de bulduk yarısını köy yolunda yarısını evde yarısını yalnız yarısını beraber izledik",
                     "watchedBy": "s❤️d",
-                    "date": "02/10/25"
+                    "date": "02/10/25",
+                    "text": "dün bir başladık ... prens li mrensli imdb si düşük müş ama bakacağız"
                 }
             ],
-            "watchedAt": "02/10/25",
-            "cineselectRating": 73,
-            "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+            "cast": [
+                "Ben Barnes",
+                "Skandar Keynes",
+                "Georgie Henley",
+                "William Moseley",
+                "Anna Popplewell",
+                "Tilda Swinton",
+                "Peter Dinklage",
+                "Sergio Castellitto",
+                "Eddie Izzard"
+            ]
+        },
+        {
             "directors": [
                 "Andrew Adamson",
                 "Sarah Rose",
@@ -385,24 +401,97 @@
                 "Amand Weaver",
                 "Dean Wright"
             ],
-            "id": "tmdb411",
-            "type": "movie",
             "status": "watched",
-            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-            "watchedEmoji": "👍",
-            "imdb": "tt0363771",
+            "cineselectRating": 73,
+            "poster": "https://image.tmdb.org/t/p/w500/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+            "id": "tmdb411",
+            "rt": 76,
+            "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+            "imdbRating": 6.9,
             "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "s❤️d",
             "writers": [
                 "Ann Peacock",
                 "Andrew Adamson",
                 "Christopher Markus",
                 "Stephen McFeely",
                 "C. S. Lewis"
+            ],
+            "genres": [
+                "Adventure",
+                "Family",
+                "Fantasy"
+            ],
+            "year": "2005",
+            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "imdb": "tt0363771",
+            "watchedAt": "02/10/25",
+            "type": "movie",
+            "watchedEmoji": "👍",
+            "comments": [
+                {
+                    "watchedBy": "s❤️d",
+                    "date": "02/10/25",
+                    "text": "baba, sketch filmine benzer film bul bana dedi Derin'lik biz de bulduk yarısını köy yolunda yarısını evde yarısını yalnız yarısını beraber izledik"
+                }
+            ],
+            "cast": [
+                "Tilda Swinton",
+                "Georgie Henley",
+                "William Moseley",
+                "Anna Popplewell",
+                "Skandar Keynes",
+                "Liam Neeson",
+                "James McAvoy",
+                "Jim Broadbent",
+                "Ray Winstone"
             ]
         },
         {
-            "watchedEmoji": "😐",
+            "directors": [
+                "Cameron Crowe",
+                "Dianne Dreyer",
+                "Ana Maria Quintana",
+                "Buddy Joe Hooker",
+                "Stephen E. Hagen",
+                "Jonathan Sanger",
+                "David McGiffert"
+            ],
+            "status": "watched",
+            "cineselectRating": 88,
+            "poster": "https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+            "id": "tmdb1903",
+            "rt": 41,
+            "overview": "David Aames has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia, his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
+            "imdbRating": 6.9,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "Alejandro Amenábar",
+                "Mateo Gil",
+                "Cameron Crowe"
+            ],
+            "genres": [
+                "Fantasy",
+                "Mystery",
+                "Romance",
+                "Science Fiction"
+            ],
+            "year": "2001",
             "imdb": "tt0259711",
+            "title": "Vanilla Sky",
+            "watchedAt": "30/09/25",
+            "type": "movie",
+            "watchedEmoji": "😐",
+            "comments": [
+                {
+                    "watchedBy": "ss",
+                    "date": "30/09/25",
+                    "text": "Çok bölük pörçük izledim konuyu anlamak  için ChatGPT yaptım çok güzel konusu varmış 🙂"
+                }
+            ],
             "cast": [
                 "Tom Cruise",
                 "Penélope Cruz",
@@ -413,52 +502,53 @@
                 "Timothy Spall",
                 "Tilda Swinton",
                 "Michael Shannon"
-            ],
-            "year": "2001",
-            "overview": "David Aames has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia, his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
-            "watchedAt": "30/09/25",
-            "rt": 41,
-            "imdbRating": 6.9,
-            "comments": [
-                {
-                    "text": "Çok bölük pörçük izledim konuyu anlamak  için ChatGPT yaptım çok güzel konusu varmış 🙂",
-                    "watchedBy": "ss",
-                    "date": "30/09/25"
-                }
-            ],
-            "genres": [
-                "Fantasy",
-                "Mystery",
-                "Romance",
-                "Science Fiction"
-            ],
-            "cineselectRating": 88,
-            "poster": "https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
-            "directors": [
-                "Cameron Crowe",
-                "Dianne Dreyer",
-                "Ana Maria Quintana",
-                "Buddy Joe Hooker",
-                "Stephen E. Hagen",
-                "Jonathan Sanger",
-                "David McGiffert"
-            ],
-            "id": "tmdb1903",
-            "type": "movie",
-            "status": "watched",
-            "title": "Vanilla Sky",
-            "watchedBy": "ss",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Alejandro Amenábar",
-                "Mateo Gil",
-                "Cameron Crowe"
             ]
         },
         {
-            "watchedEmoji": "👍",
+            "directors": [
+                "Denis Villeneuve",
+                "Michael Saunders",
+                "Gail Hunter",
+                "Karen Davis",
+                "Donald Sparks"
+            ],
+            "status": "watched",
+            "cineselectRating": 73,
+            "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
+            "id": "tmdb146233",
+            "rt": 81,
+            "overview": "Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+            "imdbRating": 8.2,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "Aaron Guzikowski"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "year": "2013",
+            "title": "Prisoners",
+            "imdb": "tt1392214",
+            "comments": [
+                {
+                    "date": "07/09/25",
+                    "watchedBy": "ss",
+                    "text": "Merak ediyorum eski ve imdb si yüksek"
+                },
+                {
+                    "watchedBy": "ss",
+                    "date": "28/09/25",
+                    "text": "İzledim tek başıma oyunculuk ta senaryo da yi tekrar izlenir"
+                }
+            ],
+            "type": "movie",
+            "watchedAt": "28/09/25",
+            "watchedEmoji": "👍",
             "cast": [
                 "Hugh Jackman",
                 "Jake Gyllenhaal",
@@ -469,53 +559,44 @@
                 "Paul Dano",
                 "Dylan Minnette",
                 "Zoë Soul"
-            ],
-            "year": "2013",
-            "overview": "Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
-            "watchedAt": "28/09/25",
-            "rt": 81,
-            "imdbRating": 8.2,
-            "comments": [
-                {
-                    "text": "Merak ediyorum eski ve imdb si yüksek",
-                    "watchedBy": "ss",
-                    "date": "07/09/25"
-                },
-                {
-                    "text": "İzledim tek başıma oyunculuk ta senaryo da yi tekrar izlenir",
-                    "watchedBy": "ss",
-                    "date": "28/09/25"
-                }
-            ],
-            "genres": [
-                "Crime",
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "cineselectRating": 73,
-            "poster": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
-            "directors": [
-                "Denis Villeneuve",
-                "Michael Saunders",
-                "Gail Hunter",
-                "Karen Davis",
-                "Donald Sparks"
-            ],
-            "id": "tmdb146233",
-            "type": "movie",
-            "status": "watched",
-            "title": "Prisoners",
-            "watchedBy": "ss",
-            "imdb": "tt1392214",
-            "blacklistedBy": null,
-            "writers": [
-                "Aaron Guzikowski"
             ]
         },
         {
-            "watchedEmoji": "😐",
+            "directors": [
+                "JT Mollner",
+                "James Grayford"
+            ],
+            "status": "watched",
+            "cineselectRating": 71,
+            "poster": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "id": "tmdb1029281",
+            "rt": 96,
+            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "imdbRating": 7.1,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "JT Mollner"
+            ],
+            "genres": [
+                "Horror",
+                "Thriller",
+                "Crime"
+            ],
+            "year": "2024",
             "imdb": "tt22375054",
+            "title": "Strange Darling",
+            "watchedAt": "21/09/25",
+            "type": "movie",
+            "watchedEmoji": "😐",
+            "comments": [
+                {
+                    "date": "21/09/25",
+                    "watchedBy": "öz❤️ss",
+                    "text": "Tam ters köşe 👍 beğendik pazar gece gece  son seçim di"
+                }
+            ],
             "cast": [
                 "Willa Fitzgerald",
                 "Kyle Gallner",
@@ -526,44 +607,63 @@
                 "Barbara Hershey",
                 "Denise Grayson",
                 "Eugenia Kuzmina"
-            ],
-            "year": "2024",
-            "overview": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
-            "watchedAt": "21/09/25",
-            "rt": 96,
-            "imdbRating": 7.1,
-            "comments": [
-                {
-                    "text": "Tam ters köşe 👍 beğendik pazar gece gece  son seçim di",
-                    "watchedBy": "öz❤️ss",
-                    "date": "21/09/25"
-                }
-            ],
-            "genres": [
-                "Horror",
-                "Thriller",
-                "Crime"
-            ],
-            "cineselectRating": 71,
-            "poster": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
-            "directors": [
-                "JT Mollner",
-                "James Grayford"
-            ],
-            "id": "tmdb1029281",
-            "type": "movie",
-            "status": "watched",
-            "title": "Strange Darling",
-            "watchedBy": "öz❤️ss",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "JT Mollner"
             ]
         },
         {
+            "directors": [
+                "Tomonori Sudô",
+                "Takuro Takahashi",
+                "Tomonori Sudo",
+                "Takahiro Miura",
+                "Ken Takahashi",
+                "Takuya Nonaka",
+                "Kei Tsunematsu"
+            ],
+            "status": "watched",
+            "cineselectRating": 74,
+            "poster": "https://image.tmdb.org/t/p/w500/yonelGVN7h4HSFC5H99EfzygiZe.jpg",
+            "id": "tmdb1368165",
+            "rt": 0,
+            "overview": "The battle rages on as Shirou continues to protect Sakura, now consumed by the darkness. He joins forces with Rin to end the Holy Grail War, while Illyasviel, who knows the truth behind it, confronts her fate. Amidst the chaos, Zouken plots to manipulate Sakura for his own desires. The final fight begins.",
+            "imdbRating": 7.9,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
             "watchedBy": "öz❤️ss",
+            "writers": [
+                "Kinoko Nasu",
+                "Akira Hiyama"
+            ],
+            "genres": [
+                "Animation",
+                "Adventure",
+                "Drama",
+                "Romance",
+                "Fantasy",
+                "Action"
+            ],
+            "year": "2024",
+            "title": "Fate",
             "imdb": "tt8092118",
+            "watchedAt": "21/09/25",
+            "type": "movie",
+            "watchedEmoji": "👍👍👍",
+            "comments": [
+                {
+                    "watchedBy": "öz",
+                    "date": "21/09/25",
+                    "text": "Güzel filmmiş bir ara izleyelim, orijinal ismi MUKADDERAT"
+                },
+                {
+                    "watchedBy": "ss",
+                    "date": "07/09/25",
+                    "text": "bu flimin imdb linki doğru yere gitmiyor ama burada yer alsın diye ekledim"
+                },
+                {
+                    "watchedBy": "öz❤️ss",
+                    "date": "21/09/25",
+                    "text": "Şimdi başladık güzel eğlenceli başladı 🙂 öyle de bitti pazar günü telefonla takılırken izlenecek filmlerden.."
+                }
+            ],
             "cast": [
                 "Yu Asakawa",
                 "Michael Donovan",
@@ -574,63 +674,54 @@
                 "Kana Ueda",
                 "Mai Kadowaki",
                 "Miki Ito"
-            ],
-            "year": "2024",
-            "overview": "The battle rages on as Shirou continues to protect Sakura, now consumed by the darkness. He joins forces with Rin to end the Holy Grail War, while Illyasviel, who knows the truth behind it, confronts her fate. Amidst the chaos, Zouken plots to manipulate Sakura for his own desires. The final fight begins.",
-            "watchedAt": "21/09/25",
-            "rt": 0,
-            "imdbRating": 7.9,
-            "comments": [
-                {
-                    "text": "Güzel filmmiş bir ara izleyelim, orijinal ismi MUKADDERAT",
-                    "watchedBy": "öz",
-                    "date": "21/09/25"
-                },
-                {
-                    "text": "bu flimin imdb linki doğru yere gitmiyor ama burada yer alsın diye ekledim",
-                    "watchedBy": "ss",
-                    "date": "07/09/25"
-                },
-                {
-                    "text": "Şimdi başladık güzel eğlenceli başladı 🙂 öyle de bitti pazar günü telefonla takılırken izlenecek filmlerden..",
-                    "watchedBy": "öz❤️ss",
-                    "date": "21/09/25"
-                }
-            ],
-            "genres": [
-                "Animation",
-                "Adventure",
-                "Drama",
-                "Romance",
-                "Fantasy",
-                "Action"
-            ],
-            "cineselectRating": 74,
-            "poster": "https://image.tmdb.org/t/p/w500/yonelGVN7h4HSFC5H99EfzygiZe.jpg",
-            "directors": [
-                "Tomonori Sudô",
-                "Takuro Takahashi",
-                "Tomonori Sudo",
-                "Takahiro Miura",
-                "Ken Takahashi",
-                "Takuya Nonaka",
-                "Kei Tsunematsu"
-            ],
-            "id": "tmdb1368165",
-            "type": "movie",
-            "status": "watched",
-            "title": "Fate",
-            "blacklistedAt": null,
-            "watchedEmoji": "👍👍👍",
-            "blacklistedBy": null,
-            "writers": [
-                "Kinoko Nasu",
-                "Akira Hiyama"
             ]
         },
         {
+            "directors": [
+                "Yorgos Lanthimos",
+                "Belle Francisco",
+                "Atilla Salih Yücer",
+                "Peter Wolf"
+            ],
+            "status": "watched",
+            "cineselectRating": 69,
+            "poster": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+            "id": "tmdb399057",
+            "rt": 79,
+            "overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+            "imdbRating": 7.0,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Yorgos Lanthimos",
+                "Efthimis Filippou",
+                "Efthymis Filippou"
+            ],
+            "genres": [
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "year": "2017",
+            "title": "The Killing of a Sacred Deer",
             "watchedEmoji": "😐",
+            "watchedAt": "20/09/25",
+            "type": "movie",
             "imdb": "tt5715874",
+            "comments": [
+                {
+                    "watchedBy": "öz❤️ss",
+                    "date": "20/09/25",
+                    "text": "Hayret izlememişiz bunfilmi  Kidman ve Ferral a rağmen"
+                },
+                {
+                    "watchedBy": "öz❤️ss",
+                    "date": "21/09/25",
+                    "text": "lanete inanır mısın ?çok kasvetli"
+                }
+            ],
             "cast": [
                 "Barry G. Bernson",
                 "Herb Caillouet",
@@ -641,84 +732,9 @@
                 "Raffey Cassidy",
                 "Sunny Suljic",
                 "Alicia Silverstone"
-            ],
-            "year": "2017",
-            "overview": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
-            "watchedAt": "20/09/25",
-            "rt": 79,
-            "imdbRating": 7.0,
-            "comments": [
-                {
-                    "text": "Hayret izlememişiz bunfilmi  Kidman ve Ferral a rağmen",
-                    "watchedBy": "öz❤️ss",
-                    "date": "20/09/25"
-                },
-                {
-                    "text": "lanete inanır mısın ?çok kasvetli",
-                    "watchedBy": "öz❤️ss",
-                    "date": "21/09/25"
-                }
-            ],
-            "genres": [
-                "Drama",
-                "Horror",
-                "Mystery",
-                "Thriller"
-            ],
-            "cineselectRating": 69,
-            "poster": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
-            "directors": [
-                "Yorgos Lanthimos",
-                "Belle Francisco",
-                "Atilla Salih Yücer",
-                "Peter Wolf"
-            ],
-            "id": "tmdb399057",
-            "type": "movie",
-            "status": "watched",
-            "title": "The Killing of a Sacred Deer",
-            "watchedBy": "öz❤️ss",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Yorgos Lanthimos",
-                "Efthimis Filippou",
-                "Efthymis Filippou"
             ]
         },
         {
-            "watchedEmoji": "👍",
-            "blacklistedAt": null,
-            "cast": [
-                "James McAvoy",
-                "Mackenzie Davis",
-                "Scoot McNairy",
-                "Aisling Franciosi",
-                "Alix West Lefler",
-                "Dan Hough",
-                "Kris Hitchen",
-                "Motaz Malhees",
-                "Jakob Højlev Jørgensen"
-            ],
-            "year": "2024",
-            "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
-            "genres": [
-                "Drama",
-                "Horror",
-                "Thriller"
-            ],
-            "rt": 82,
-            "imdbRating": 6.8,
-            "comments": [
-                {
-                    "text": "Çok iyi gerilim .Filmi yarıda kapatmak istedim şu an izlerken yazıyorum şok gerginim",
-                    "watchedBy": "ss",
-                    "date": "12/09/25"
-                }
-            ],
-            "watchedAt": "12/09/25",
-            "cineselectRating": 71,
-            "poster": "https://image.tmdb.org/t/p/w500/6NwAlU6ZH6ua3sYpFAUpUnoKUmi.jpg",
             "directors": [
                 "James Watkins",
                 "Caroline Bowker",
@@ -731,22 +747,90 @@
                 "Simon Duric",
                 "Terry McShane"
             ],
-            "id": "tmdb1114513",
-            "type": "movie",
             "status": "watched",
-            "title": "Speak No Evil",
-            "watchedBy": "öz❤️ss",
-            "imdb": "tt27534307",
+            "cineselectRating": 71,
+            "poster": "https://image.tmdb.org/t/p/w500/6NwAlU6ZH6ua3sYpFAUpUnoKUmi.jpg",
+            "id": "tmdb1114513",
+            "rt": 82,
+            "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+            "imdbRating": 6.8,
             "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
             "writers": [
                 "James Watkins",
                 "Christian Tafdrup",
                 "Mads Tafdrup"
+            ],
+            "genres": [
+                "Drama",
+                "Horror",
+                "Thriller"
+            ],
+            "year": "2024",
+            "imdb": "tt27534307",
+            "title": "Speak No Evil",
+            "comments": [
+                {
+                    "date": "12/09/25",
+                    "watchedBy": "ss",
+                    "text": "Çok iyi gerilim .Filmi yarıda kapatmak istedim şu an izlerken yazıyorum şok gerginim"
+                }
+            ],
+            "type": "movie",
+            "watchedAt": "12/09/25",
+            "watchedEmoji": "👍",
+            "cast": [
+                "James McAvoy",
+                "Mackenzie Davis",
+                "Scoot McNairy",
+                "Aisling Franciosi",
+                "Alix West Lefler",
+                "Dan Hough",
+                "Kris Hitchen",
+                "Motaz Malhees",
+                "Jakob Højlev Jørgensen"
             ]
         },
         {
-            "watchedEmoji": "👍👍",
+            "directors": [
+                "Stanley Kubrick",
+                "Derek Cracknell",
+                "Dusty Symonds",
+                "June Randall"
+            ],
+            "status": "watched",
+            "cineselectRating": 82,
+            "poster": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+            "id": "tmdb185",
+            "rt": 86,
+            "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+            "imdbRating": 8.2,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
             "watchedBy": "ss",
+            "writers": [
+                "Stanley Kubrick",
+                "Anthony Burgess"
+            ],
+            "genres": [
+                "Crime",
+                "Sci-Fi",
+                "Science Fiction"
+            ],
+            "year": "1971",
+            "imdb": "tt0066921",
+            "title": "A Clockwork Orange",
+            "comments": [
+                {
+                    "date": "10/09/25",
+                    "watchedBy": "ss",
+                    "text": "Kubrick filmlerini chat gpt ile analiz ediyor tartışıyoruz 2001/eyeswideshot şimdi de bu"
+                }
+            ],
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "watchedAt": "12/09/25",
             "cast": [
                 "Malcolm McDowell",
                 "Patrick Magee",
@@ -757,47 +841,55 @@
                 "Michael Tarn",
                 "Miriam Karlin",
                 "Adrienne Corri"
-            ],
-            "year": "1971",
-            "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
-            "watchedAt": "12/09/25",
-            "rt": 86,
-            "imdbRating": 8.2,
-            "comments": [
-                {
-                    "text": "Kubrick filmlerini chat gpt ile analiz ediyor tartışıyoruz 2001/eyeswideshot şimdi de bu",
-                    "watchedBy": "ss",
-                    "date": "10/09/25"
-                }
-            ],
-            "genres": [
-                "Crime",
-                "Sci-Fi",
-                "Science Fiction"
-            ],
-            "cineselectRating": 82,
-            "poster": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
-            "directors": [
-                "Stanley Kubrick",
-                "Derek Cracknell",
-                "Dusty Symonds",
-                "June Randall"
-            ],
-            "id": "tmdb185",
-            "type": "movie",
-            "status": "watched",
-            "title": "A Clockwork Orange",
-            "blacklistedAt": null,
-            "imdb": "tt0066921",
-            "blacklistedBy": null,
-            "writers": [
-                "Stanley Kubrick",
-                "Anthony Burgess"
             ]
         },
         {
-            "watchedEmoji": "👍👍",
+            "directors": [
+                "Stanley Kubrick",
+                "Rhun Francis",
+                "Becky Hunt",
+                "Brian W. Cook",
+                "Adrian Toynton",
+                "Annie Simpson"
+            ],
+            "status": "watched",
+            "cineselectRating": 84,
+            "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+            "id": "tmdb345",
+            "rt": 76,
+            "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+            "imdbRating": 7.5,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
             "watchedBy": "ss",
+            "writers": [
+                "Stanley Kubrick",
+                "Frederic Raphael",
+                "Arthur Schnitzler"
+            ],
+            "genres": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "year": "1999",
+            "imdb": "tt0120663",
+            "title": "Eyes Wide Shut",
+            "comments": [
+                {
+                    "date": "07/09/25",
+                    "watchedBy": "ss",
+                    "text": "İzledim ama tekrar izlemeye  değer unuttum"
+                },
+                {
+                    "date": "09/09/25",
+                    "watchedBy": "ss",
+                    "text": "José Saramago Körlük geldi aklıma.. insan görülmediğinde veya maske taktığında medeni kalabilir mi? N.Kidman,Tom Crusie  ne kadar gençmiş 9 evliymişler ,2 yıl daha kalmışlar 400gün çekimler sürmüş çok yorucuymuş bu filmde olmak"
+                }
+            ],
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "watchedAt": "12/09/25",
             "cast": [
                 "Tom Cruise",
                 "Nicole Kidman",
@@ -808,53 +900,52 @@
                 "Vinessa Shaw",
                 "Alan Cumming",
                 "Sky du Mont"
-            ],
-            "year": "1999",
-            "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-            "genres": [
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "rt": 76,
-            "imdbRating": 7.5,
-            "comments": [
-                {
-                    "text": "İzledim ama tekrar izlemeye  değer unuttum",
-                    "watchedBy": "ss",
-                    "date": "07/09/25"
-                },
-                {
-                    "text": "José Saramago Körlük geldi aklıma.. insan görülmediğinde veya maske taktığında medeni kalabilir mi? N.Kidman,Tom Crusie  ne kadar gençmiş 9 evliymişler ,2 yıl daha kalmışlar 400gün çekimler sürmüş çok yorucuymuş bu filmde olmak",
-                    "watchedBy": "ss",
-                    "date": "09/09/25"
-                }
-            ],
-            "watchedAt": "12/09/25",
-            "cineselectRating": 84,
-            "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
-            "directors": [
-                "Stanley Kubrick",
-                "Rhun Francis",
-                "Becky Hunt",
-                "Brian W. Cook",
-                "Adrian Toynton",
-                "Annie Simpson"
-            ],
-            "id": "tmdb345",
-            "type": "movie",
-            "status": "watched",
-            "title": "Eyes Wide Shut",
-            "blacklistedAt": null,
-            "imdb": "tt0120663",
-            "blacklistedBy": null,
-            "writers": [
-                "Stanley Kubrick",
-                "Frederic Raphael",
-                "Arthur Schnitzler"
             ]
         },
         {
+            "directors": [
+                "Josef Rusnak",
+                "Kim Berner",
+                "Kim H. Winther",
+                "Lars P. Winther"
+            ],
+            "status": "watched",
+            "cineselectRating": 82,
+            "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+            "id": "tmdb1090",
+            "rt": 28,
+            "overview": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+            "imdbRating": 7.0,
+            "watchedBy": "ss",
+            "writers": [
+                "Daniel F. Galouye",
+                "Josef Rusnak",
+                "Ravel Centeno-Rodriguez"
+            ],
+            "genres": [
+                "Mystery",
+                "Sci-Fi",
+                "Thriller",
+                "Science Fiction"
+            ],
+            "year": "1999",
+            "imdb": "tt0139809",
+            "title": "The Thirteenth Floor",
+            "watchedAt": "05/09/25",
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "comments": [
+                {
+                    "watchedBy": "ss",
+                    "date": "07/09/25",
+                    "text": "test yorum4"
+                },
+                {
+                    "watchedBy": "ss",
+                    "date": "06/09/25",
+                    "text": "matrix ile aynı yıl çevrilen benzer üç flim olduğunu chatgptden örğneince izledimaa"
+                }
+            ],
             "cast": [
                 "Craig Bierko",
                 "Gretchen Mol",
@@ -865,52 +956,47 @@
                 "Jeremy Roberts",
                 "Rif Hutton",
                 "Leon Rippy"
-            ],
-            "year": "1999",
-            "overview": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
-            "watchedAt": "05/09/25",
-            "rt": 28,
-            "imdbRating": 7.0,
-            "comments": [
-                {
-                    "text": "test yorum4",
-                    "watchedBy": "ss",
-                    "date": "07/09/25"
-                },
-                {
-                    "text": "matrix ile aynı yıl çevrilen benzer üç flim olduğunu chatgptden örğneince izledimaa",
-                    "watchedBy": "ss",
-                    "date": "06/09/25"
-                }
-            ],
-            "genres": [
-                "Mystery",
-                "Sci-Fi",
-                "Thriller",
-                "Science Fiction"
-            ],
-            "cineselectRating": 82,
-            "poster": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
-            "directors": [
-                "Josef Rusnak",
-                "Kim Berner",
-                "Kim H. Winther",
-                "Lars P. Winther"
-            ],
-            "id": "tmdb1090",
-            "type": "movie",
-            "status": "watched",
-            "title": "The Thirteenth Floor",
-            "imdb": "tt0139809",
-            "watchedBy": "ss",
-            "watchedEmoji": "👍👍",
-            "writers": [
-                "Daniel F. Galouye",
-                "Josef Rusnak",
-                "Ravel Centeno-Rodriguez"
             ]
         },
         {
+            "directors": [
+                "Joel Coen",
+                "Ethan Coen",
+                "Shannon Wood",
+                "Steve Love",
+                "Deborah Reinisch",
+                "Andreas Laven"
+            ],
+            "status": "watched",
+            "cineselectRating": 79,
+            "poster": "https://image.tmdb.org/t/p/w500/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
+            "id": "tmdb11368",
+            "rt": 94,
+            "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+            "imdbRating": 7.5,
+            "watchedBy": "ss",
+            "writers": [
+                "Joel Coen",
+                "Ethan Coen"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "year": "1984",
+            "title": "Blood Simple",
+            "watchedEmoji": "👍",
+            "comments": [
+                {
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "ss",
+                    "text": "coen kardeşler ,kara mizah karakterlerinin ilk izlerini taşıyan güzel bir filmdi"
+                }
+            ],
+            "type": "movie",
+            "imdb": "tt0086979",
+            "watchedAt": "05/09/25",
             "cast": [
                 "John Getz",
                 "Frances McDormand",
@@ -921,83 +1007,9 @@
                 "Raquel Gavia",
                 "Van Brooks",
                 "Señor Marco"
-            ],
-            "year": "1984",
-            "overview": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "rt": 94,
-            "imdbRating": 7.5,
-            "comments": [
-                {
-                    "text": "coen kardeşler ,kara mizah karakterlerinin ilk izlerini taşıyan güzel bir filmdi",
-                    "watchedBy": "ss",
-                    "date": "06 Eylül 2025 Cumartesi"
-                }
-            ],
-            "watchedAt": "05/09/25",
-            "cineselectRating": 79,
-            "poster": "https://image.tmdb.org/t/p/w500/svU6pu4lfHn0T5BVZchVxL58HB5.jpg",
-            "directors": [
-                "Joel Coen",
-                "Ethan Coen",
-                "Shannon Wood",
-                "Steve Love",
-                "Deborah Reinisch",
-                "Andreas Laven"
-            ],
-            "id": "tmdb11368",
-            "type": "movie",
-            "status": "watched",
-            "title": "Blood Simple",
-            "imdb": "tt0086979",
-            "watchedEmoji": "👍",
-            "watchedBy": "ss",
-            "writers": [
-                "Joel Coen",
-                "Ethan Coen"
             ]
         },
         {
-            "cast": [
-                "Tommy Lee Jones",
-                "Javier Bardem",
-                "Josh Brolin",
-                "Woody Harrelson",
-                "Kelly Macdonald",
-                "Garret Dillahunt",
-                "Tess Harper",
-                "Barry Corbin",
-                "Stephen Root"
-            ],
-            "year": "2007",
-            "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-            "watchedAt": "05/09/25",
-            "rt": 93,
-            "imdbRating": 8.2,
-            "comments": [
-                {
-                    "text": "Coen kardeşlerin bir başyapıtı tekrar tekrar izlenecek bir film çok beğendim",
-                    "watchedBy": "ss",
-                    "date": "06 Eylül 2025 Cumartesi"
-                },
-                {
-                    "text": "nasıl bugüne kadar izlememişim anlamadım",
-                    "watchedBy": "ss",
-                    "date": "06 Eylül 2025 Cumartesi"
-                }
-            ],
-            "genres": [
-                "Crime",
-                "Drama",
-                "Thriller",
-                "Western"
-            ],
-            "cineselectRating": 85,
-            "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
             "directors": [
                 "Ethan Coen",
                 "Joel Coen",
@@ -1008,23 +1020,94 @@
                 "Betsy Magruder",
                 "Mamie Mitchell"
             ],
-            "id": "tmdb6977",
-            "type": "movie",
             "status": "watched",
-            "title": "No Country for Old Men",
-            "imdb": "tt0477348",
-            "watchedEmoji": "👍👍",
+            "cineselectRating": 85,
+            "poster": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+            "id": "tmdb6977",
+            "rt": 93,
+            "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "imdbRating": 8.2,
             "watchedBy": "ss",
             "writers": [
                 "Joel Coen",
                 "Ethan Coen",
                 "Cormac McCarthy",
                 "Narges Takesh"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller",
+                "Western"
+            ],
+            "year": "2007",
+            "title": "No Country for Old Men",
+            "watchedEmoji": "👍👍",
+            "comments": [
+                {
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "ss",
+                    "text": "Coen kardeşlerin bir başyapıtı tekrar tekrar izlenecek bir film çok beğendim"
+                },
+                {
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "ss",
+                    "text": "nasıl bugüne kadar izlememişim anlamadım"
+                }
+            ],
+            "type": "movie",
+            "imdb": "tt0477348",
+            "watchedAt": "05/09/25",
+            "cast": [
+                "Tommy Lee Jones",
+                "Javier Bardem",
+                "Josh Brolin",
+                "Woody Harrelson",
+                "Kelly Macdonald",
+                "Garret Dillahunt",
+                "Tess Harper",
+                "Barry Corbin",
+                "Stephen Root"
             ]
         },
         {
-            "watchedEmoji": "👍👍",
+            "directors": [
+                "George Roy Hill",
+                "Charlsie Bryant",
+                "Ray Gosnell Jr.",
+                "Charles Dismukes"
+            ],
+            "status": "watched",
+            "cineselectRating": 81,
+            "poster": "https://image.tmdb.org/t/p/w500/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
+            "id": "tmdb9277",
+            "rt": 93,
+            "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+            "imdbRating": 8.3,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "David S. Ward"
+            ],
+            "genres": [
+                "Comedy",
+                "Crime",
+                "Drama"
+            ],
+            "year": "1973",
+            "title": "The Sting",
+            "imdb": "tt0070735",
+            "comments": [
+                {
+                    "watchedBy": "ss",
+                    "date": "17/09/25",
+                    "text": "Harika bir filmdi Hollywood u holywwod yapanlar bunlar işte diyorsun . Robert Redford yaşıyormuş hala dedim izlerken bir hafta sonra öldü ☹️"
+                }
+            ],
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "watchedAt": "05/09/25",
             "cast": [
                 "Paul Newman",
                 "Robert Redford",
@@ -1035,46 +1118,45 @@
                 "Harold Gould",
                 "John Heffernan",
                 "Dana Elcar"
-            ],
-            "year": "1973",
-            "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
-            "genres": [
-                "Comedy",
-                "Crime",
-                "Drama"
-            ],
-            "rt": 93,
-            "imdbRating": 8.3,
-            "comments": [
-                {
-                    "text": "Harika bir filmdi Hollywood u holywwod yapanlar bunlar işte diyorsun . Robert Redford yaşıyormuş hala dedim izlerken bir hafta sonra öldü ☹️",
-                    "watchedBy": "ss",
-                    "date": "17/09/25"
-                }
-            ],
-            "watchedAt": "05/09/25",
-            "cineselectRating": 81,
-            "poster": "https://image.tmdb.org/t/p/w500/4VdQopZb0lx13Me3yxE5rUXMGCI.jpg",
-            "directors": [
-                "George Roy Hill",
-                "Charlsie Bryant",
-                "Ray Gosnell Jr.",
-                "Charles Dismukes"
-            ],
-            "id": "tmdb9277",
-            "type": "movie",
-            "status": "watched",
-            "title": "The Sting",
-            "watchedBy": "ss",
-            "imdb": "tt0070735",
-            "blacklistedBy": null,
-            "writers": [
-                "David S. Ward"
             ]
         },
         {
+            "directors": [
+                "Alfred Hitchcock",
+                "Robert Saunders"
+            ],
+            "status": "watched",
+            "cineselectRating": 80,
+            "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+            "id": "tmdb213",
+            "rt": 97,
+            "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+            "imdbRating": 8.3,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Ernest Lehman"
+            ],
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "year": "1959",
+            "title": "North by Northwest",
             "imdb": "tt0053125",
+            "comments": [
+                {
+                    "date": "07/09/25",
+                    "watchedBy": "ss",
+                    "text": "başladık ama izleyemedik çünkü dosyalar bozuk kesik kesik"
+                }
+            ],
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "watchedAt": "02/09/25",
             "cast": [
                 "Cary Grant",
                 "Eva Marie Saint",
@@ -1085,45 +1167,54 @@
                 "Philip Ober",
                 "Martin Landau",
                 "Adam Williams"
-            ],
-            "year": "1959",
-            "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-            "watchedAt": "02/09/25",
-            "rt": 97,
-            "imdbRating": 8.3,
-            "comments": [
-                {
-                    "text": "başladık ama izleyemedik çünkü dosyalar bozuk kesik kesik",
-                    "watchedBy": "ss",
-                    "date": "07/09/25"
-                }
-            ],
-            "genres": [
-                "Adventure",
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "cineselectRating": 80,
-            "poster": "https://image.tmdb.org/t/p/w500/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
-            "directors": [
-                "Alfred Hitchcock",
-                "Robert Saunders"
-            ],
-            "id": "tmdb213",
-            "type": "movie",
-            "status": "watched",
-            "title": "North by Northwest",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "öz❤️ss",
-            "blacklistedBy": null,
-            "writers": [
-                "Ernest Lehman"
             ]
         },
         {
+            "directors": [
+                "Bennett Miller",
+                "Sharron Reynolds-Enriquez",
+                "Scott Robertson",
+                "Casey Mako",
+                "Courtenay Miles",
+                "Jonas Spaccarotelli",
+                "Brendon Breese"
+            ],
+            "status": "watched",
+            "cineselectRating": 78,
+            "poster": "https://image.tmdb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+            "id": "tmdb60308",
+            "rt": 94,
+            "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+            "imdbRating": 7.6,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "comment": "bu filmi hiç izlemedime şaşırıyorum  hem de gerçek hayat hikayesiymiş — (ss) • 06 Eylül 2025 Cumartesi 08:50",
             "watchedBy": "ss",
+            "writers": [
+                "Steven Zaillian",
+                "Aaron Sorkin",
+                "Stan Chervin",
+                "Brian A. Alexander",
+                "Michael Lewis"
+            ],
+            "genres": [
+                "Biography",
+                "Drama",
+                "Sport"
+            ],
+            "year": "2011",
+            "title": "Moneyball",
+            "imdb": "tt1210166",
+            "comments": [
+                {
+                    "date": "06/09/25",
+                    "watchedBy": "ss",
+                    "text": "spor müsabakalarının hele hele beyzbol amerikan futbolu gibi filmler çok ilgimi çekmez brad Pitt için izledim amagerçek bir  hikayeymiş ve çok başarılı buldum"
+                }
+            ],
+            "type": "movie",
             "watchedEmoji": "👍",
+            "watchedAt": "01/09/25",
             "cast": [
                 "Brad Pitt",
                 "Robin Wright",
@@ -1134,84 +1225,9 @@
                 "Reed Diamond",
                 "Brent Jennings",
                 "Ken Medlock"
-            ],
-            "year": "2011",
-            "comment": "bu filmi hiç izlemedime şaşırıyorum  hem de gerçek hayat hikayesiymiş — (ss) • 06 Eylül 2025 Cumartesi 08:50",
-            "watchedAt": "01/09/25",
-            "rt": 94,
-            "imdbRating": 7.6,
-            "comments": [
-                {
-                    "text": "spor müsabakalarının hele hele beyzbol amerikan futbolu gibi filmler çok ilgimi çekmez brad Pitt için izledim amagerçek bir  hikayeymiş ve çok başarılı buldum",
-                    "watchedBy": "ss",
-                    "date": "06/09/25"
-                }
-            ],
-            "genres": [
-                "Biography",
-                "Drama",
-                "Sport"
-            ],
-            "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
-            "cineselectRating": 78,
-            "poster": "https://image.tmdb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
-            "directors": [
-                "Bennett Miller",
-                "Sharron Reynolds-Enriquez",
-                "Scott Robertson",
-                "Casey Mako",
-                "Courtenay Miles",
-                "Jonas Spaccarotelli",
-                "Brendon Breese"
-            ],
-            "id": "tmdb60308",
-            "type": "movie",
-            "status": "watched",
-            "title": "Moneyball",
-            "imdb": "tt1210166",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Steven Zaillian",
-                "Aaron Sorkin",
-                "Stan Chervin",
-                "Brian A. Alexander",
-                "Michael Lewis"
             ]
         },
         {
-            "watchedEmoji": "👍",
-            "watchedBy": "ss",
-            "cast": [
-                "Brad Pitt",
-                "Damson Idris",
-                "Javier Bardem",
-                "Kerry Condon",
-                "Tobias Menzies",
-                "Kim Bodnia",
-                "Sarah Niles",
-                "Will Merrick",
-                "Joseph Balderrama"
-            ],
-            "year": "2025",
-            "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
-            "genres": [
-                "Action",
-                "Drama",
-                "Sport"
-            ],
-            "rt": 83,
-            "imdbRating": 7.9,
-            "comments": [
-                {
-                    "text": "Brad Pitt bakışlarından yaşı biraz belli oluyor artık yine de karizma ..",
-                    "watchedBy": "ss",
-                    "date": "09/09/25"
-                }
-            ],
-            "watchedAt": "01/09/25",
-            "cineselectRating": 73,
-            "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
             "directors": [
                 "Joseph Kosinski",
                 "Toby Hefferman",
@@ -1223,19 +1239,90 @@
                 "Lisa Vick",
                 "Gary Powell"
             ],
-            "id": "tmdb911430",
-            "type": "movie",
             "status": "watched",
-            "title": "F1",
-            "blacklistedAt": null,
-            "imdb": "tt16311594",
+            "cineselectRating": 73,
+            "poster": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+            "id": "tmdb911430",
+            "rt": 83,
+            "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+            "imdbRating": 7.9,
             "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
             "writers": [
                 "Joseph Kosinski",
                 "Ehren Kruger"
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Sport"
+            ],
+            "year": "2025",
+            "title": "F1",
+            "imdb": "tt16311594",
+            "comments": [
+                {
+                    "date": "09/09/25",
+                    "watchedBy": "ss",
+                    "text": "Brad Pitt bakışlarından yaşı biraz belli oluyor artık yine de karizma .."
+                }
+            ],
+            "type": "movie",
+            "watchedEmoji": "👍",
+            "watchedAt": "01/09/25",
+            "cast": [
+                "Brad Pitt",
+                "Damson Idris",
+                "Javier Bardem",
+                "Kerry Condon",
+                "Tobias Menzies",
+                "Kim Bodnia",
+                "Sarah Niles",
+                "Will Merrick",
+                "Joseph Balderrama"
             ]
         },
         {
+            "directors": [
+                "Joel Coen",
+                "Ethan Coen",
+                "Donald Murphy",
+                "Michelangelo Csaba Bolla",
+                "James Alan Hensz",
+                "Brian O'Kelley",
+                "T. Kukovinski"
+            ],
+            "status": "watched",
+            "cineselectRating": 92,
+            "poster": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+            "id": "tmdb275",
+            "rt": 95,
+            "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+            "imdbRating": 8.1,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Ethan Coen",
+                "Joel Coen"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "year": "1996",
+            "imdb": "tt0116282",
+            "title": "Fargo",
+            "comments": [
+                {
+                    "watchedBy": "öz",
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "text": "daha önce izlemiştik ama hatırlayamadık tekrar izledik bayıldık"
+                }
+            ],
+            "type": "movie",
+            "watchedEmoji": "👍👍👍",
+            "watchedAt": "28/08/25",
             "cast": [
                 "William H. Macy",
                 "Frances McDormand",
@@ -1246,50 +1333,45 @@
                 "Kristin Rudrüd",
                 "Bruce Bohne",
                 "Steve Reevis"
-            ],
-            "year": "1996",
-            "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "rt": 95,
-            "imdbRating": 8.1,
-            "comments": [
-                {
-                    "text": "daha önce izlemiştik ama hatırlayamadık tekrar izledik bayıldık",
-                    "watchedBy": "öz",
-                    "date": "06 Eylül 2025 Cumartesi"
-                }
-            ],
-            "watchedAt": "28/08/25",
-            "cineselectRating": 92,
-            "poster": "https://image.tmdb.org/t/p/w500/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
-            "directors": [
-                "Joel Coen",
-                "Ethan Coen",
-                "Donald Murphy",
-                "Michelangelo Csaba Bolla",
-                "James Alan Hensz",
-                "Brian O'Kelley",
-                "T. Kukovinski"
-            ],
-            "id": "tmdb275",
-            "type": "movie",
-            "status": "watched",
-            "title": "Fargo",
-            "watchedBy": "öz❤️ss",
-            "imdb": "tt0116282",
-            "watchedEmoji": "👍👍👍",
-            "writers": [
-                "Ethan Coen",
-                "Joel Coen"
             ]
         },
         {
-            "imdb": "tt0047396",
+            "directors": [
+                "Alfred Hitchcock",
+                "Herbert Coleman"
+            ],
+            "status": "watched",
+            "cineselectRating": 80,
+            "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+            "id": "tmdb567",
+            "rt": 99,
+            "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+            "imdbRating": 8.5,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "öz",
+            "writers": [
+                "John Michael Hayes",
+                "Cornell Woolrich"
+            ],
+            "genres": [
+                "Drama",
+                "Mystery",
+                "Thriller"
+            ],
+            "year": "1954",
+            "title": "Rear Window",
+            "imdb": "tt0047396",
+            "comments": [
+                {
+                    "date": "06/09/25",
+                    "watchedBy": "ss",
+                    "text": "özlem izledi ama ben henüz izlemedim"
+                }
+            ],
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "watchedAt": "20/08/25",
             "cast": [
                 "James Stewart",
                 "Grace Kelly",
@@ -1300,43 +1382,48 @@
                 "Ross Bagdasarian",
                 "Georgine Darcy",
                 "Sara Berner"
-            ],
-            "year": "1954",
-            "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
-            "genres": [
-                "Drama",
-                "Mystery",
-                "Thriller"
-            ],
-            "rt": 99,
-            "imdbRating": 8.5,
-            "comments": [
-                {
-                    "text": "özlem izledi ama ben henüz izlemedim",
-                    "watchedBy": "ss",
-                    "date": "06/09/25"
-                }
-            ],
-            "watchedAt": "20/08/25",
-            "cineselectRating": 80,
-            "poster": "https://image.tmdb.org/t/p/w500/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
-            "directors": [
-                "Alfred Hitchcock",
-                "Herbert Coleman"
-            ],
-            "id": "tmdb567",
-            "type": "movie",
-            "status": "watched",
-            "title": "Rear Window",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "öz",
-            "blacklistedBy": null,
-            "writers": [
-                "John Michael Hayes",
-                "Cornell Woolrich"
             ]
         },
         {
+            "directors": [
+                "Edgar Wright",
+                "Jeremy Lovering",
+                "Paul Cathie",
+                "Olivia Fitzroy",
+                "Richard Graysmark",
+                "Paula Casarin"
+            ],
+            "status": "watched",
+            "cineselectRating": 75,
+            "poster": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+            "id": "tmdb576845",
+            "rt": 75,
+            "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+            "imdbRating": 7.0,
+            "watchedBy": "öz",
+            "writers": [
+                "Edgar Wright",
+                "Krysty Wilson-Cairns"
+            ],
+            "genres": [
+                "Drama",
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ],
+            "year": "2021",
+            "title": "Last Night in Soho",
+            "watchedEmoji": "👍",
+            "watchedAt": "20/08/25",
+            "type": "movie",
+            "imdb": "tt9639470",
+            "comments": [
+                {
+                    "watchedBy": "öz",
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "text": "şaşırtıcı sonu var"
+                }
+            ],
             "cast": [
                 "Thomasin McKenzie",
                 "Anya Taylor-Joy",
@@ -1347,50 +1434,54 @@
                 "Pauline McLynn",
                 "Terence Stamp",
                 "Diana Rigg"
-            ],
-            "year": "2021",
-            "overview": "A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
-            "watchedAt": "20/08/25",
-            "rt": 75,
-            "imdbRating": 7.0,
-            "comments": [
-                {
-                    "text": "şaşırtıcı sonu var",
-                    "watchedBy": "öz",
-                    "date": "06 Eylül 2025 Cumartesi"
-                }
-            ],
-            "genres": [
-                "Drama",
-                "Horror",
-                "Mystery",
-                "Thriller"
-            ],
-            "cineselectRating": 75,
-            "poster": "https://image.tmdb.org/t/p/w500/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
-            "directors": [
-                "Edgar Wright",
-                "Jeremy Lovering",
-                "Paul Cathie",
-                "Olivia Fitzroy",
-                "Richard Graysmark",
-                "Paula Casarin"
-            ],
-            "id": "tmdb576845",
-            "type": "movie",
-            "status": "watched",
-            "title": "Last Night in Soho",
-            "imdb": "tt9639470",
-            "watchedEmoji": "👍",
-            "watchedBy": "öz",
-            "writers": [
-                "Edgar Wright",
-                "Krysty Wilson-Cairns"
             ]
         },
         {
-            "watchedEmoji": "👍👍",
+            "directors": [
+                "Stanley Kubrick",
+                "Michael Stevenson",
+                "David Tomblin",
+                "Brian W. Cook"
+            ],
+            "status": "watched",
+            "cineselectRating": 81,
+            "poster": "https://image.tmdb.org/t/p/w500/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
+            "id": "tmdb3175",
+            "rt": 78,
+            "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+            "imdbRating": 8.1,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "Stanley Kubrick",
+                "William Makepeace Thackeray"
+            ],
+            "genres": [
+                "Adventure",
+                "Drama",
+                "War",
+                "Romance",
+                "History"
+            ],
+            "year": "1975",
+            "title": "Barry Lyndon",
             "imdb": "tt0072684",
+            "watchedAt": "12/08/25",
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "comments": [
+                {
+                    "date": "07/09/25",
+                    "watchedBy": "öz",
+                    "text": "coen kardeşlerin görselliğin çok güzel olduğu ilk filmlerinden sonraki filmlerine ait ipuçları var ama genel olarak görsellik içeren bir flim bir daha izler miyim izlemem..."
+                },
+                {
+                    "date": "07/09/25",
+                    "watchedBy": "ss",
+                    "text": "görsellik harika  ancak coen kardeşlerin kara mizahı henüz vitrine çıkmamış"
+                }
+            ],
             "cast": [
                 "Ryan O'Neal",
                 "Marisa Berenson",
@@ -1401,54 +1492,46 @@
                 "Marie Kean",
                 "Diana Körner",
                 "Murray Melvin"
-            ],
-            "year": "1975",
-            "overview": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
-            "watchedAt": "12/08/25",
-            "rt": 78,
-            "imdbRating": 8.1,
-            "comments": [
-                {
-                    "text": "coen kardeşlerin görselliğin çok güzel olduğu ilk filmlerinden sonraki filmlerine ait ipuçları var ama genel olarak görsellik içeren bir flim bir daha izler miyim izlemem...",
-                    "watchedBy": "öz",
-                    "date": "07/09/25"
-                },
-                {
-                    "text": "görsellik harika  ancak coen kardeşlerin kara mizahı henüz vitrine çıkmamış",
-                    "watchedBy": "ss",
-                    "date": "07/09/25"
-                }
-            ],
-            "genres": [
-                "Adventure",
-                "Drama",
-                "War",
-                "Romance",
-                "History"
-            ],
-            "cineselectRating": 81,
-            "poster": "https://image.tmdb.org/t/p/w500/x2JQCgLjieWOwvImeGtLmuNgsrq.jpg",
-            "directors": [
-                "Stanley Kubrick",
-                "Michael Stevenson",
-                "David Tomblin",
-                "Brian W. Cook"
-            ],
-            "id": "tmdb3175",
-            "type": "movie",
-            "status": "watched",
-            "title": "Barry Lyndon",
-            "watchedBy": "ss",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Stanley Kubrick",
-                "William Makepeace Thackeray"
             ]
         },
         {
-            "watchedEmoji": "👍👍",
+            "directors": [
+                "Stanley Kubrick",
+                "Derek Cracknell"
+            ],
+            "status": "watched",
+            "cineselectRating": 82,
+            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "id": "tmdb62",
+            "rt": 90,
+            "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+            "imdbRating": 8.3,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "Stanley Kubrick",
+                "Arthur C. Clarke"
+            ],
+            "genres": [
+                "Adventure",
+                "Sci-Fi",
+                "Science Fiction",
+                "Mystery"
+            ],
+            "year": "1968",
+            "title": "2001: A Space Odyssey",
             "imdb": "tt0062622",
+            "watchedAt": "17/07/25",
+            "type": "movie",
+            "watchedEmoji": "👍👍",
+            "comments": [
+                {
+                    "date": "06/09/25",
+                    "watchedBy": "öz",
+                    "text": "(filmi izlemeden önce) aslında maymun ve kemik sahnesi çok tanıdık, müzikler çok tanıdık ama filmi baştan sona izlemediğimi farkettim kokup kopuk izlemişim . ama 1968 de böyle bir filmin yapıldığına hala inanamıyorum aya bile gitmeden önce"
+                }
+            ],
             "cast": [
                 "Keir Dullea",
                 "Gary Lockwood",
@@ -1459,48 +1542,32 @@
                 "Margaret Tyzack",
                 "Robert Beatty",
                 "Sean Sullivan"
-            ],
-            "year": "1968",
-            "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
-            "watchedAt": "17/07/25",
-            "rt": 90,
-            "imdbRating": 8.3,
-            "comments": [
-                {
-                    "text": "(filmi izlemeden önce) aslında maymun ve kemik sahnesi çok tanıdık, müzikler çok tanıdık ama filmi baştan sona izlemediğimi farkettim kokup kopuk izlemişim . ama 1968 de böyle bir filmin yapıldığına hala inanamıyorum aya bile gitmeden önce",
-                    "watchedBy": "öz",
-                    "date": "06/09/25"
-                }
-            ],
-            "genres": [
-                "Adventure",
-                "Sci-Fi",
-                "Science Fiction",
-                "Mystery"
-            ],
-            "cineselectRating": 82,
-            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
-            "directors": [
-                "Stanley Kubrick",
-                "Derek Cracknell"
-            ],
-            "id": "tmdb62",
-            "type": "movie",
-            "status": "watched",
-            "title": "2001: A Space Odyssey",
-            "watchedBy": "ss",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Stanley Kubrick",
-                "Arthur C. Clarke"
             ]
         }
     ],
     "series": [
         {
-            "watchedEmoji": "😐",
+            "directors": [],
+            "status": "watched",
+            "cineselectRating": 91,
+            "poster": "https://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
+            "id": "tmdb286801",
+            "rt": 0,
+            "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
+            "imdbRating": 0.0,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Ian Brennan"
+            ],
+            "genres": [
+                "Drama",
+                "Crime"
+            ],
+            "year": "2025",
+            "imdb": "",
+            "title": "Monster: The Ed Gein Story",
             "cast": [
                 "Charlie Hunnam",
                 "Laurie Metcalf",
@@ -1512,39 +1579,56 @@
                 "Joey Pollari",
                 "Charlie Hall"
             ],
-            "year": "2025",
-            "overview": "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers.",
-            "genres": [
-                "Drama",
-                "Crime"
-            ],
-            "rt": 0,
-            "imdbRating": 0.0,
+            "type": "show",
+            "watchedAt": "11/10/25",
+            "watchedEmoji": "😐",
             "comments": [
                 {
-                    "text": "Sapıklık cinayet delilik şizofreni gerçek hikaye tam bizlik 🙂",
                     "watchedBy": "öz❤️ss",
-                    "date": "11/10/25"
+                    "date": "11/10/25",
+                    "text": "Sapıklık cinayet delilik şizofreni gerçek hikaye tam bizlik 🙂"
                 }
-            ],
-            "watchedAt": "11/10/25",
-            "cineselectRating": 91,
-            "poster": "https://image.tmdb.org/t/p/w500/iDHzRALtZCzHVmx7uyjTTKvMAPB.jpg",
-            "directors": [],
-            "id": "tmdb286801",
-            "type": "show",
-            "status": "watched",
-            "title": "Monster: The Ed Gein Story",
-            "imdb": "",
-            "watchedBy": "öz❤️ss",
-            "blacklistedBy": null,
-            "writers": [
-                "Ian Brennan"
             ]
         },
         {
-            "watchedEmoji": "👍",
+            "directors": [],
+            "status": "watched",
+            "cineselectRating": 74,
+            "poster": "https://image.tmdb.org/t/p/w500/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
+            "id": "tmdb66276",
+            "rt": 0,
+            "overview": "After a night of partying with a female stranger, a man wakes up to find her stabbed to death and is charged with her murder.",
+            "imdbRating": 8.4,
+            "blacklistedBy": null,
             "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Richard Price",
+                "Steven Zaillian"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "year": "2016",
+            "title": "The Night Of",
+            "imdb": "tt2401256",
+            "comments": [
+                {
+                    "date": "17/09/25",
+                    "watchedBy": "öz❤️ss",
+                    "text": "Özlem dün başlamış dakika 27 de  filmin gidişini beğenip beni beklemiş şu an dakika 45 filan çok iyi gidiyor"
+                },
+                {
+                    "date": "23/09/25",
+                    "watchedBy": "öz❤️ss",
+                    "text": "Erkan önerdi"
+                }
+            ],
+            "type": "show",
+            "watchedEmoji": "👍",
+            "watchedAt": "28/09/25",
             "cast": [
                 "Riz Ahmed",
                 "John Turturro",
@@ -1554,47 +1638,57 @@
                 "Poorna Jagannathan",
                 "Michael Kenneth Williams",
                 "Sofia Black-D'Elia"
+            ]
+        },
+        {
+            "directors": [],
+            "status": "watched",
+            "cineselectRating": 82,
+            "poster": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
+            "id": "tmdb249039",
+            "rt": 0,
+            "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
+            "imdbRating": 7.1,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "öz❤️ss",
+            "writers": [
+                "Zach Baylin",
+                "Kate Susman"
             ],
-            "year": "2016",
-            "overview": "After a night of partying with a female stranger, a man wakes up to find her stabbed to death and is charged with her murder.",
             "genres": [
                 "Crime",
                 "Drama",
                 "Mystery"
             ],
-            "rt": 0,
-            "imdbRating": 8.4,
+            "year": "2025",
+            "imdb": "tt23055142",
+            "watchedEmoji": "😐",
+            "watchedAt": "20/09/25",
+            "type": "show",
+            "title": "Black Rabbit",
             "comments": [
                 {
-                    "text": "Özlem dün başlamış dakika 27 de  filmin gidişini beğenip beni beklemiş şu an dakika 45 filan çok iyi gidiyor",
-                    "watchedBy": "öz❤️ss",
-                    "date": "17/09/25"
+                    "date": "20/09/25",
+                    "watchedBy": "ss",
+                    "text": "Jude law"
                 },
                 {
-                    "text": "Erkan önerdi",
+                    "date": "20/09/25",
                     "watchedBy": "öz❤️ss",
-                    "date": "23/09/25"
+                    "text": "Jason Bateman(ozark) , Jude law oynuyor nefes kesici başladı"
+                },
+                {
+                    "date": "21/09/25",
+                    "watchedBy": "ss",
+                    "text": "Özem sıkıldı be beğendim güzel gidiyor bölüm 3"
+                },
+                {
+                    "date": "23/09/25",
+                    "watchedBy": "ss",
+                    "text": "Son bölümdeyim çok iyi miş dizi bb Fargo dan sonra Ozark paralelinde rating li iyi dizi yapmışlar"
                 }
             ],
-            "watchedAt": "28/09/25",
-            "cineselectRating": 74,
-            "poster": "https://image.tmdb.org/t/p/w500/q13XJHdnsmxQL9rXRcnNDrZGHjO.jpg",
-            "directors": [],
-            "id": "tmdb66276",
-            "type": "show",
-            "status": "watched",
-            "title": "The Night Of",
-            "watchedBy": "öz❤️ss",
-            "imdb": "tt2401256",
-            "blacklistedBy": null,
-            "writers": [
-                "Richard Price",
-                "Steven Zaillian"
-            ]
-        },
-        {
-            "watchedBy": "öz❤️ss",
-            "blacklistedAt": null,
             "cast": [
                 "Jude Law",
                 "Jason Bateman",
@@ -1604,57 +1698,56 @@
                 "Abbey Lee",
                 "Odessa Young",
                 "Robin de Jesús"
-            ],
-            "year": "2025",
-            "overview": "A rising-star restaurateur is forced into New York's criminal underworld when his chaotic brother returns to town with loan sharks on his trail.",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "rt": 0,
-            "imdbRating": 7.1,
-            "comments": [
-                {
-                    "text": "Jude law",
-                    "watchedBy": "ss",
-                    "date": "20/09/25"
-                },
-                {
-                    "text": "Jason Bateman(ozark) , Jude law oynuyor nefes kesici başladı",
-                    "watchedBy": "öz❤️ss",
-                    "date": "20/09/25"
-                },
-                {
-                    "text": "Özem sıkıldı be beğendim güzel gidiyor bölüm 3",
-                    "watchedBy": "ss",
-                    "date": "21/09/25"
-                },
-                {
-                    "text": "Son bölümdeyim çok iyi miş dizi bb Fargo dan sonra Ozark paralelinde rating li iyi dizi yapmışlar",
-                    "watchedBy": "ss",
-                    "date": "23/09/25"
-                }
-            ],
-            "watchedAt": "20/09/25",
-            "cineselectRating": 82,
-            "poster": "https://image.tmdb.org/t/p/w500/4e9CraVtGY00jLP2YGwsuEtaIjR.jpg",
-            "directors": [],
-            "id": "tmdb249039",
-            "type": "show",
-            "status": "watched",
-            "title": "Black Rabbit",
-            "watchedEmoji": "😐",
-            "imdb": "tt23055142",
-            "blacklistedBy": null,
-            "writers": [
-                "Zach Baylin",
-                "Kate Susman"
             ]
         },
         {
+            "directors": [],
+            "status": "watched",
+            "cineselectRating": 85,
+            "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
+            "id": "tmdb157239",
+            "rt": 0,
+            "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
+            "imdbRating": 0.0,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "comment": "Coen kardeşlerin olduğunu duyunca şaşırdım Fargo dizisi ile bu dizinin aynı yönetmenler tarafından yapıldığını görmek şaşırtıcı — (ss) • 06 Eylül 2025 Cumartesi 08:47",
             "watchedBy": "öz❤️ss",
+            "writers": [
+                "Noah Hawley",
+                "Dan O'Bannon",
+                "Ronald Shusett"
+            ],
+            "genres": [
+                "Horror",
+                "Sci-Fi",
+                "Thriller",
+                "Sci-Fi & Fantasy",
+                "Drama"
+            ],
+            "year": "2025",
+            "imdb": "tt13623632",
+            "title": "Alien: Earth",
+            "watchedAt": "07/09/25",
+            "type": "show",
             "watchedEmoji": null,
+            "comments": [
+                {
+                    "watchedBy": "ss",
+                    "date": "06/09/25",
+                    "text": "Çok iyi"
+                },
+                {
+                    "watchedBy": "ss",
+                    "date": "12/09/25",
+                    "text": "Coen kardeşlerin üvey kardeşi;)Noah Hawley'in bu seri nin arkasında  olduğunu öğrenince  zaten  bilmeden başlamıştım  sonra daha da sarıldım.Her hafta yeni bölüm çıkıyor"
+                },
+                {
+                    "watchedBy": "ss",
+                    "date": "02/10/25",
+                    "text": "sezon sonu 8nci bölüm de güzel di genel olarak güzel di"
+                }
+            ],
             "cast": [
                 "Sydney Chandler",
                 "Alex Lawther",
@@ -1665,75 +1758,23 @@
                 "Erana James",
                 "Lily Newmark",
                 "Jonathan Ajayi"
-            ],
-            "year": "2025",
-            "comment": "Coen kardeşlerin olduğunu duyunca şaşırdım Fargo dizisi ile bu dizinin aynı yönetmenler tarafından yapıldığını görmek şaşırtıcı — (ss) • 06 Eylül 2025 Cumartesi 08:47",
-            "watchedAt": "07/09/25",
-            "rt": 0,
-            "imdbRating": 0.0,
-            "comments": [
-                {
-                    "text": "Çok iyi",
-                    "watchedBy": "ss",
-                    "date": "06/09/25"
-                },
-                {
-                    "text": "Coen kardeşlerin üvey kardeşi;)Noah Hawley'in bu seri nin arkasında  olduğunu öğrenince  zaten  bilmeden başlamıştım  sonra daha da sarıldım.Her hafta yeni bölüm çıkıyor",
-                    "watchedBy": "ss",
-                    "date": "12/09/25"
-                },
-                {
-                    "text": "sezon sonu 8nci bölüm de güzel di genel olarak güzel di",
-                    "watchedBy": "ss",
-                    "date": "02/10/25"
-                }
-            ],
-            "overview": "When the mysterious deep space research vessel USCSS Maginot crash-lands on Earth, Wendy and a ragtag group of tactical soldiers make a fateful discovery that puts them face-to-face with the planet's greatest threat.",
-            "genres": [
-                "Horror",
-                "Sci-Fi",
-                "Thriller",
-                "Sci-Fi & Fantasy",
-                "Drama"
-            ],
-            "cineselectRating": 85,
-            "poster": "https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg",
-            "directors": [],
-            "id": "tmdb157239",
-            "type": "show",
-            "status": "watched",
-            "title": "Alien: Earth",
-            "blacklistedAt": null,
-            "imdb": "tt13623632",
-            "blacklistedBy": null,
-            "writers": [
-                "Noah Hawley",
-                "Dan O'Bannon",
-                "Ronald Shusett"
             ]
         },
         {
-            "imdb": "tt15676170",
-            "blacklistedAt": null,
-            "cast": [
-                "Aras Bulut Iynemli",
-                "Sarp Akkaya",
-                "Esra Bilgiç",
-                "Songül Öden",
-                "Mehmet Günsür"
+            "directors": [
+                "Mehmet Ada Öztekin"
             ],
-            "year": "2024",
-            "overview": "The early life story of Veteran Mustafa Kemal Atatürk, the founding father of the Republic of Turkey and its first President, supreme commander of Turkish War of Independence, and revolutionary statesman.",
-            "watchedAt": "07/09/25",
+            "status": "watched",
+            "cineselectRating": 100,
+            "poster": "https://image.tmdb.org/t/p/w500/1ycSNEDArSiapTHdiamVrYzQFt4.jpg",
+            "id": "tmdb276344",
             "rt": 0,
+            "overview": "The early life story of Veteran Mustafa Kemal Atatürk, the founding father of the Republic of Turkey and its first President, supreme commander of Turkish War of Independence, and revolutionary statesman.",
             "imdbRating": 8.8,
-            "comments": [
-                {
-                    "text": "görki çok beğenmiş sabah mesajıyla bizi uyandırdı biz de izleyelim dedik :)=",
-                    "watchedBy": "öz❤️ss",
-                    "date": "07/09/25"
-                }
-            ],
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [],
             "genres": [
                 "Biography",
                 "Drama",
@@ -1741,23 +1782,72 @@
                 "War & Politics",
                 "Documentary"
             ],
-            "cineselectRating": 100,
-            "poster": "https://image.tmdb.org/t/p/w500/1ycSNEDArSiapTHdiamVrYzQFt4.jpg",
-            "directors": [
-                "Mehmet Ada Öztekin"
-            ],
-            "id": "tmdb276344",
-            "type": "show",
-            "status": "watched",
+            "year": "2024",
+            "imdb": "tt15676170",
             "title": "Atatürk 1881-1919",
+            "comments": [
+                {
+                    "watchedBy": "öz❤️ss",
+                    "date": "07/09/25",
+                    "text": "görki çok beğenmiş sabah mesajıyla bizi uyandırdı biz de izleyelim dedik :)="
+                }
+            ],
+            "type": "show",
             "watchedEmoji": "😐",
-            "watchedBy": "ss",
-            "blacklistedBy": null,
-            "writers": []
+            "watchedAt": "07/09/25",
+            "cast": [
+                "Aras Bulut Iynemli",
+                "Sarp Akkaya",
+                "Esra Bilgiç",
+                "Songül Öden",
+                "Mehmet Günsür"
+            ]
         },
         {
-            "watchedEmoji": "😐",
+            "directors": [
+                "Sandi Cameron"
+            ],
+            "status": "watched",
+            "cineselectRating": 93,
+            "poster": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
+            "id": "tmdb60622",
+            "rt": 0,
+            "overview": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
+            "imdbRating": 8.8,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "ss",
+            "writers": [
+                "Noah Hawley"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "year": "2014",
+            "title": "Fargo",
             "imdb": "tt2802850",
+            "watchedAt": "07/09/25",
+            "type": "show",
+            "watchedEmoji": "😐",
+            "comments": [
+                {
+                    "watchedBy": "ss",
+                    "date": "12/09/25",
+                    "text": "Noah Hawley 'indizisi bu ama coen kardeşlerin tüm karakteri burada . kara mizah müthiş"
+                },
+                {
+                    "watchedBy": "ss",
+                    "date": "07/09/25",
+                    "text": "coenler'i Fargo ile tanıdım no country of old men ile anladım ,blood simple ile emin oldum ve Fargo dizisiyle onların takipçisi Noah Hawley'i  çok sevdim :)"
+                },
+                {
+                    "watchedBy": "ss",
+                    "date": "11/09/25",
+                    "text": "Şu an 2nci sezon ortalarına geldik .evet evet bende bu dizi artık bb den sonra 2 numara . Bb bu diziden sonra çekilmiş 🙈"
+                }
+            ],
             "cast": [
                 "Billy Bob Thornton",
                 "Martin Freeman",
@@ -1768,51 +1858,40 @@
                 "Joe Keery",
                 "Lamorne Morris",
                 "Richa Shukla Moorjani"
-            ],
-            "year": "2014",
-            "overview": "A close-knit anthology series dealing with stories involving malice, violence and murder based in and around Minnesota.",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "rt": 0,
-            "imdbRating": 8.8,
-            "comments": [
-                {
-                    "text": "Noah Hawley 'indizisi bu ama coen kardeşlerin tüm karakteri burada . kara mizah müthiş",
-                    "watchedBy": "ss",
-                    "date": "12/09/25"
-                },
-                {
-                    "text": "coenler'i Fargo ile tanıdım no country of old men ile anladım ,blood simple ile emin oldum ve Fargo dizisiyle onların takipçisi Noah Hawley'i  çok sevdim :)",
-                    "watchedBy": "ss",
-                    "date": "07/09/25"
-                },
-                {
-                    "text": "Şu an 2nci sezon ortalarına geldik .evet evet bende bu dizi artık bb den sonra 2 numara . Bb bu diziden sonra çekilmiş 🙈",
-                    "watchedBy": "ss",
-                    "date": "11/09/25"
-                }
-            ],
-            "watchedAt": "07/09/25",
-            "cineselectRating": 93,
-            "poster": "https://image.tmdb.org/t/p/w500/6U9CPeD8obHzweikFhiLhpc7YBT.jpg",
-            "directors": [
-                "Sandi Cameron"
-            ],
-            "id": "tmdb60622",
-            "type": "show",
-            "status": "watched",
-            "title": "Fargo",
-            "watchedBy": "ss",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Noah Hawley"
             ]
         },
         {
+            "directors": [],
+            "status": "watched",
+            "cineselectRating": 85,
+            "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+            "id": "tmdb1405",
+            "rt": 0,
+            "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+            "imdbRating": 8.6,
+            "watchedBy": "öz",
+            "writers": [
+                "James Manos Jr.",
+                "Jeff Lindsay"
+            ],
+            "genres": [
+                "Crime",
+                "Drama",
+                "Mystery"
+            ],
+            "year": "2006",
+            "title": "Dexter",
+            "watchedEmoji": "👍👍",
+            "comments": [
+                {
+                    "date": "06 Eylül 2025 Cumartesi",
+                    "watchedBy": "öz",
+                    "text": "yaratıcı"
+                }
+            ],
+            "type": "show",
+            "imdb": "tt0773262",
+            "watchedAt": "18/06/25",
             "cast": [
                 "Michael C. Hall",
                 "Jennifer Carpenter",
@@ -1822,42 +1901,47 @@
                 "Aimee Garcia",
                 "Desmond Harrington",
                 "C.S. Lee"
-            ],
-            "year": "2006",
-            "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Mystery"
-            ],
-            "rt": 0,
-            "imdbRating": 8.6,
-            "comments": [
-                {
-                    "text": "yaratıcı",
-                    "watchedBy": "öz",
-                    "date": "06 Eylül 2025 Cumartesi"
-                }
-            ],
-            "watchedAt": "18/06/25",
-            "cineselectRating": 85,
-            "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-            "directors": [],
-            "id": "tmdb1405",
-            "type": "show",
-            "status": "watched",
-            "title": "Dexter",
-            "imdb": "tt0773262",
-            "watchedEmoji": "👍👍",
-            "watchedBy": "öz",
-            "writers": [
-                "James Manos Jr.",
-                "Jeff Lindsay"
             ]
         },
         {
-            "watchedEmoji": "😐",
+            "directors": [
+                "Kaat Beels",
+                "Jonas Govaerts"
+            ],
+            "status": "watched",
+            "cineselectRating": 73,
+            "poster": "https://image.tmdb.org/t/p/w500/A8LZI3pv0VgXsfad9AFDtv6ZTJC.jpg",
+            "id": "tmdb74764",
+            "rt": 0,
+            "overview": "A psychological thriller about Mie, a young woman with amnesia who is locked up in a secure psychiatric hospital. Mie is visited by Detective Inspector Wolkers who claims she was the last person seen with the vanished Thomas Spectre. As a witness and prime suspect, she appears to be the sole key to this mysterious disappearance. In order to solve the puzzle and find Thomas, Mie has to reconstruct her lost memories and find her way back through the dark labyrinth of her recent past.",
+            "imdbRating": 7.9,
+            "blacklistedBy": null,
+            "blacklistedAt": null,
+            "watchedBy": "öz",
+            "writers": [
+                "Veerle Baetens",
+                "Malin-Sarah Gozin",
+                "Christophe Dirickx"
+            ],
+            "genres": [
+                "Drama",
+                "Horror",
+                "Thriller",
+                "Mystery"
+            ],
+            "year": "2017",
+            "title": "Tabula Rasa",
             "imdb": "tt5197860",
+            "comments": [
+                {
+                    "watchedBy": "öz",
+                    "date": "07/09/25",
+                    "text": "ben beğendim,elif'e de önerdim"
+                }
+            ],
+            "type": "show",
+            "watchedEmoji": "😐",
+            "watchedAt": "01/05/25",
             "cast": [
                 "Veerle Baetens",
                 "Stijn Van Opstal",
@@ -1868,42 +1952,6 @@
                 "Hilde Van Mieghem",
                 "Peter van den Begin",
                 "Lynn Van Royen"
-            ],
-            "year": "2017",
-            "overview": "A psychological thriller about Mie, a young woman with amnesia who is locked up in a secure psychiatric hospital. Mie is visited by Detective Inspector Wolkers who claims she was the last person seen with the vanished Thomas Spectre. As a witness and prime suspect, she appears to be the sole key to this mysterious disappearance. In order to solve the puzzle and find Thomas, Mie has to reconstruct her lost memories and find her way back through the dark labyrinth of her recent past.",
-            "watchedAt": "01/05/25",
-            "rt": 0,
-            "imdbRating": 7.9,
-            "comments": [
-                {
-                    "text": "ben beğendim,elif'e de önerdim",
-                    "watchedBy": "öz",
-                    "date": "07/09/25"
-                }
-            ],
-            "genres": [
-                "Drama",
-                "Horror",
-                "Thriller",
-                "Mystery"
-            ],
-            "cineselectRating": 73,
-            "poster": "https://image.tmdb.org/t/p/w500/A8LZI3pv0VgXsfad9AFDtv6ZTJC.jpg",
-            "directors": [
-                "Kaat Beels",
-                "Jonas Govaerts"
-            ],
-            "id": "tmdb74764",
-            "type": "show",
-            "status": "watched",
-            "title": "Tabula Rasa",
-            "watchedBy": "öz",
-            "blacklistedAt": null,
-            "blacklistedBy": null,
-            "writers": [
-                "Veerle Baetens",
-                "Malin-Sarah Gozin",
-                "Christophe Dirickx"
             ]
         }
     ]
